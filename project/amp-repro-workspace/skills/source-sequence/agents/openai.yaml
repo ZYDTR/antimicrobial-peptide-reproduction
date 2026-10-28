@@ -1,0 +1,4 @@
+interface:
+  display_name: "Source and sequence"
+  short_description: "Audit sources, sequences and BLAST evidence"
+  default_prompt: "Use $source-sequence for the active case in this project; read AGENTS.md first."

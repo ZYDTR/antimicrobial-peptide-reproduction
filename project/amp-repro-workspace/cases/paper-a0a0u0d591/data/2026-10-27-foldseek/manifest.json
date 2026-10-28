@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "accession": "A0A0U0D591",
+  "created_at_utc": "2026-10-27T05:16:00+00:00",
+  "task": "foldseek_search",
+  "ticket_id": "8tKJ-mHozBZSXDFrLkGo02khBRf4TTayiF4otw",
+  "tool": {
+    "name": "Foldseek Web Server API",
+    "mode": "3diaa",
+    "service_url": "https://search.foldseek.com/api",
+    "script": "skills/foldseek_structural_search/scripts/search.py"
+  },
+  "parameters": {
+    "databases": [
+      "pdb100",
+      "afdb50"
+    ],
+    "input_file": "cases/paper-a0a0u0d591/data/2026-10-23-record/alphafold_model.pdb",
+    "mode": "3diaa"
+  },
+  "downloads": [
+    {
+      "role": "foldseek_json",
+      "file": "foldseek_results.json",
+      "requested_url": "https://search.foldseek.com/api/result/8tKJ-mHozBZSXDFrLkGo02khBRf4TTayiF4otw/0",
+      "retrieved_at_utc": "2026-10-27T05:16:30+00:00",
+      "http_status": 200,
+      "bytes": 8267800,
+      "sha256": "51604a4a909161dc8217fb4d72e1e2cc6b5271c01bb99b5c9cc7be1ee4e77989"
+    },
+    {
+      "role": "foldseek_markdown",
+      "file": "foldseek_results.md",
+      "retrieved_at_utc": "2026-10-27T05:16:30+00:00",
+      "bytes": 31025,
+      "sha256": "35e6e8b739eb8243207ecdaaf8f85dc27a4be64fa09510418d7ec2cc20e215d6"
+    }
+  ]
+}

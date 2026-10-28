@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "accession": "A0A0U0D591",
+  "created_at_utc": "2026-10-27T06:59:39.891979+00:00",
+  "task": "candidate_literature",
+  "databases": [
+    "PubMed (NCBI E-utilities)",
+    "Europe PMC API"
+  ],
+  "downloads": [
+    {
+      "role": "europepmc_query_json",
+      "file": "epmc_direct_candidate.json",
+      "retrieved_at_utc": "2026-10-27T06:59:39.891979+00:00",
+      "http_status": 200,
+      "bytes": 60,
+      "sha256": "d8a1f6e6828150dc145227c9a72608e2319bb5a5569024d0a1a6d75c72cdc432"
+    },
+    {
+      "role": "europepmc_query_json",
+      "file": "epmc_direct_locus.json",
+      "retrieved_at_utc": "2026-10-27T06:59:39.891979+00:00",
+      "http_status": 200,
+      "bytes": 60,
+      "sha256": "d8a1f6e6828150dc145227c9a72608e2319bb5a5569024d0a1a6d75c72cdc432"
+    },
+    {
+      "role": "europepmc_query_json",
+      "file": "epmc_lcn972.json",
+      "retrieved_at_utc": "2026-10-27T06:59:39.891979+00:00",
+      "http_status": 200,
+      "bytes": 55170,
+      "sha256": "c44b2c43ad7a398e7e3bce6b4c86826737198532a7b4f25d8efbbbc92b0ea038"
+    },
+    {
+      "role": "europepmc_query_json",
+      "file": "epmc_lcn972_mechanism.json",
+      "retrieved_at_utc": "2026-10-27T06:59:39.891979+00:00",
+      "http_status": 200,
+      "bytes": 108537,
+      "sha256": "ecd95b37f360bf9bf78f1c0c14696b6a3e56629dead40413392deeb04ec53bac"
+    },
+    {
+      "role": "europepmc_query_json",
+      "file": "epmc_lcn972_operon.json",
+      "retrieved_at_utc": "2026-10-27T06:59:39.891979+00:00",
+      "http_status": 200,
+      "bytes": 76595,
+      "sha256": "510b0fbec4009599bd227a105f2f132c6ef3f068027b8a3ab81432760e6b1d67"
+    },
+    {
+      "role": "europepmc_query_json",
+      "file": "epmc_wgs_project.json",
+      "retrieved_at_utc": "2026-10-27T06:59:39.891979+00:00",
+      "http_status": 200,
+      "bytes": 12909,
+      "sha256": "3cd6941ce306c0608d3378bc3e2aec4ef204a08a7872d6fafc930df910650c4e"
+    },
+    {
+      "role": "pubmed_query_json",
+      "file": "pm_2lgn.json",
+      "retrieved_at_utc": "2026-10-27T06:59:39.891979+00:00",
+      "http_status": 200,
+      "bytes": 17,
+      "sha256": "1f95b1911eb503eb21e0e20cb8cc0bb1c7c76b434a26a33cca69782da241adc0"
+    },
+    {
+      "role": "pubmed_abstracts_json",
+      "file": "pm_2lgn_abstract.json",
+      "retrieved_at_utc": "2026-10-27T06:59:39.891979+00:00",
+      "http_status": 200,
+      "bytes": 1293,
+      "sha256": "2e1fff7782dbf252e4605d436233934ad157dd38131e3e8fd70fc0aff7fe7f96"
+    },
+    {
+      "role": "pubmed_abstracts_json",
+      "file": "pm_direct_abstracts.json",
+      "retrieved_at_utc": "2026-10-27T06:59:39.891979+00:00",
+      "http_status": 200,
+      "bytes": 6038,
+      "sha256": "ce95ec37f47e763fbb3e1f52834976dcfd5ff14dda8ec3d432fd96632dbd5d17"
+    },
+    {
+      "role": "pubmed_query_json",
+      "file": "pm_direct_candidate.json",
+      "retrieved_at_utc": "2026-10-27T06:59:39.891979+00:00",
+      "http_status": 200,
+      "bytes": 143,
+      "sha256": "2800448b17471badb0114090d110b1ffb872790a1d02993309ceab908a4deb95"
+    },
+    {
+      "role": "pubmed_query_json",
+      "file": "pm_exact_candidate.json",
+      "retrieved_at_utc": "2026-10-27T06:59:39.891979+00:00",
+      "http_status": 200,
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "role": "pubmed_query_json",
+      "file": "pm_handem.json",
+      "retrieved_at_utc": "2026-10-27T06:59:39.891979+00:00",
+      "http_status": 200,
+      "bytes": 87,
+      "sha256": "c7a282f67ad62ed2a92788fbe8aae796f51b1a58500952ebfe802ee645090983"
+    },
+    {
+      "role": "pubmed_abstracts_json",
+      "file": "pm_handem_abstracts.json",
+      "retrieved_at_utc": "2026-10-27T06:59:39.891979+00:00",
+      "http_status": 200,
+      "bytes": 11513,
+      "sha256": "d4b3a7442df7e5e2726b476ff0e80b393c5864ab5bc6b9572167441fdd19a479"
+    },
+    {
+      "role": "pubmed_query_json",
+      "file": "pm_lcn972_classic.json",
+      "retrieved_at_utc": "2026-10-27T06:59:39.891979+00:00",
+      "http_status": 200,
+      "bytes": 143,
+      "sha256": "3ee0a11f127eb4d4655963d02f1dae110541081ae8ded9e770a8f1455a5ba841"
+    },
+    {
+      "role": "pubmed_abstracts_json",
+      "file": "pm_lcn972_classic_abstracts.json",
+      "retrieved_at_utc": "2026-10-27T06:59:39.891979+00:00",
+      "http_status": 200,
+      "bytes": 17747,
+      "sha256": "f789895415986d7a6775bbf727c6ee1848d1a05574cfbeac45712916b4349f27"
+    },
+    {
+      "role": "pubmed_query_json",
+      "file": "pm_lcn972_cluster.json",
+      "retrieved_at_utc": "2026-10-27T06:59:39.891979+00:00",
+      "http_status": 200,
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "role": "pubmed_query_json",
+      "file": "pm_lcn972_transporter.json",
+      "retrieved_at_utc": "2026-10-27T06:59:39.891979+00:00",
+      "http_status": 200,
+      "bytes": 87,
+      "sha256": "3e0e3756327c389312eb52b71aae22e75723540561eea131e463c77c9de8afb5"
+    },
+    {
+      "role": "pubmed_abstracts_json",
+      "file": "pm_lcn972_transporter_abstracts.json",
+      "retrieved_at_utc": "2026-10-27T06:59:39.891979+00:00",
+      "http_status": 200,
+      "bytes": 9953,
+      "sha256": "74f6b21ea09dd35bb32f7ecd9bdad89004fcf8e7799f10ffb02ca19a8ad7aa9d"
+    },
+    {
+      "role": "pubmed_query_json",
+      "file": "pm_pseudopneumoniae_spain.json",
+      "retrieved_at_utc": "2026-10-27T06:59:39.891979+00:00",
+      "http_status": 200,
+      "bytes": 143,
+      "sha256": "418a73ab75137bb30c932b2c44b4eb02164d4d005c199b1e1cec7af7d28d776f"
+    },
+    {
+      "role": "pubmed_abstracts_json",
+      "file": "pm_pseudopneumoniae_spain_abstracts.json",
+      "retrieved_at_utc": "2026-10-27T06:59:39.891979+00:00",
+      "http_status": 200,
+      "bytes": 7165,
+      "sha256": "c3b767719fe4d73c5928b8e3df241be1f3f86eca6ae0d7830dc8190a016689f8"
+    },
+    {
+      "role": "pubmed_query_json",
+      "file": "pm_s_pseudopneumoniae.json",
+      "retrieved_at_utc": "2026-10-27T06:59:39.891979+00:00",
+      "http_status": 200,
+      "bytes": 143,
+      "sha256": "8231bd54368e854db5546a8d61fb92365a0c23c899769cbfa170177f23ea26c3"
+    },
+    {
+      "role": "pubmed_abstracts_json",
+      "file": "pm_s_pseudopneumoniae_abstracts.json",
+      "retrieved_at_utc": "2026-10-27T06:59:39.891979+00:00",
+      "http_status": 200,
+      "bytes": 6225,
+      "sha256": "70defb029909389ef5f83ef9ddb2faee9d9e068c4931ac6d8ecdf52685eaa54f"
+    },
+    {
+      "role": "pubmed_query_json",
+      "file": "pm_strain.json",
+      "retrieved_at_utc": "2026-10-27T06:59:39.891979+00:00",
+      "http_status": 200,
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "role": "pubmed_query_json",
+      "file": "pm_turner_lcn972.json",
+      "retrieved_at_utc": "2026-10-27T06:59:39.891979+00:00",
+      "http_status": 200,
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "role": "fulltext_article_txt",
+      "file": "pmc6397248_fulltext.txt",
+      "retrieved_at_utc": "2026-10-27T06:59:39.891979+00:00",
+      "http_status": 200,
+      "bytes": 38048,
+      "sha256": "2e614b881ac7924b05d972e48db851ce1f1ef783e31da216dcefd6e1d407c2b6"
+    }
+  ]
+}

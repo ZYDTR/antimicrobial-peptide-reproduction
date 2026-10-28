@@ -1,0 +1,63 @@
+index	locus_tag	protein_id	gene	start	end	strand	length_aa	product	gap_from_prev_bp	is_target
+0	D6867_00350	RJY15042.1		1	219	+	72	N-acetylmuramoyl-L-alanine amidase family protein		NO
+1	D6867_00355			423	557	+	0	LPXTG cell wall anchor domain-containing protein	203	NO
+2	D6867_00360			671	880	-	0	hypothetical protein	113	NO
+3	D6867_00365	RJY15043.1		859	1632	+	257	TatD family deoxyribonuclease	-22	NO
+4	D6867_00370	RJY15044.1	rnmV	1632	2192	+	186	ribonuclease M5	-1	NO
+5	D6867_00375			2264	3162	+	0	XRE family transcriptional regulator	71	NO
+6	D6867_00380			3953	4033	+	0	transcriptional activator	790	NO
+7	D6867_00385	RJY15045.1		4223	6265	+	680	bacteriocin-associated integral membrane family protein	189	NO
+8	D6867_00390	RJY15046.1		6267	6908	+	213	ABC transporter ATP-binding protein	1	NO
+9	D6867_00395	RJY15047.1	rsmA	7340	8212	+	290	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase RsmA	431	NO
+10	D6867_00400			8901	9674	+	0	cell surface protein	688	NO
+11	D6867_00405	RJY15048.1		9668	10066	+	132	hypothetical protein	-7	NO
+12	D6867_00410	RJY15049.1	rsgA	10267	11145	+	292	ribosome small subunit-dependent GTPase A	200	NO
+13	D6867_00415	RJY15050.1		11156	11812	+	218	ribulose-phosphate 3-epimerase	10	NO
+14	D6867_00420	RJY15051.1		11775	12437	+	220	thiamine diphosphokinase	-38	NO
+15	D6867_00425	RJY15052.1		12397	13695	+	432	DNA recombination protein RmuC	-41	NO
+16	D6867_00430	RJY15053.1		13685	14629	+	314	HD domain-containing protein	-11	NO
+17	D6867_00435	RJY15054.1		14631	14927	-	98	hypothetical protein	1	NO
+18	D6867_00440	RJY15055.1	purR	14893	15720	+	275	pur operon repressor	-35	NO
+19	D6867_00445	RJY15056.1		15781	17031	+	416	diaminopimelate decarboxylase	60	NO
+20	D6867_00450	RJY15057.1	pflA	17157	17951	+	264	pyruvate formate lyase-activating protein	125	NO
+21	D6867_00455	RJY15058.1	yidC	18026	18952	-	308	membrane protein insertase YidC	74	NO
+22	D6867_00460	RJY15059.1		19030	19308	-	92	acylphosphatase	77	NO
+23	D6867_00465	RJY15060.1		19342	20082	+	246	RNA methyltransferase	33	NO
+24	D6867_00470	RJY15061.1		20137	20820	+	227	Bax inhibitor-1/YccA family protein	54	NO
+25	D6867_00475			20826	20957	-	0	OxaA precursor	5	NO
+26	D6867_00480	RJY15062.1		20931	21923	+	330	aspartate--ammonia ligase	-27	NO
+27	D6867_00485	RJY15063.1	rsmD	21988	22527	+	179	16S rRNA (guanine(966)-N(2))-methyltransferase RsmD	64	NO
+28	D6867_00490	RJY15064.1	coaD	22517	23005	+	162	pantetheine-phosphate adenylyltransferase	-11	NO
+29	D6867_00495	RJY15065.1		22989	24026	+	345	PDZ domain-containing protein	-17	NO
+30	D6867_00500	RJY15066.1		24084	24314	+	76	DUF1146 domain-containing protein	57	NO
+31	D6867_00505	RJY15067.1	murA	24338	25621	+	427	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	23	NO
+32	D6867_00510	RJY15068.1		25608	25802	+	64	DNA-directed RNA polymerase subunit beta	-14	NO
+33	D6867_00515	RJY15069.1		25841	26671	+	276	DNA/RNA non-specific endonuclease	38	NO
+34	D6867_00520	RJY15070.1		27008	28339	+	443	HlyC/CorC family transporter	336	NO
+35	D6867_00530	RJY15071.1	rpoB	29022	32633	+	1203	DNA-directed RNA polymerase subunit beta	682	NO
+36	D6867_00535	RJY15092.1	rpoC	32693	36343	+	1216	DNA-directed RNA polymerase subunit beta'	59	NO
+37	D6867_00540	RJY15072.1		36652	37065	+	137	nucleoside-diphosphate kinase	308	NO
+38	D6867_00545	RJY15073.1		37313	38233	-	306	N-acetylmuramoyl-L-alanine amidase family protein	247	NO
+39	D6867_00550			38252	39522	-	0	choline-binding protein G	18	NO
+40	D6867_00555	RJY15074.1		39833	40021	+	62	hypothetical protein	310	NO
+41	D6867_00560	RJY15075.1		40176	40346	-	56	hypothetical protein	154	NO
+42	D6867_00565			40537	41382	+	0	XRE family transcriptional regulator	190	NO
+43	D6867_00570	RJY15076.1		41621	42253	-	210	ABC transporter ATP-binding protein	238	NO
+44	D6867_00575	RJY15077.1		42255	44270	-	671	bacteriocin-associated integral membrane family protein	1	NO
+45	D6867_00580	RJY15078.1		44373	44669	-	98	lactococcin 972 family bacteriocin	102	NO
+46	D6867_00585	RJY15079.1		45285	45926	-	213	ABC transporter ATP-binding protein	615	NO
+47	D6867_00590	RJY15080.1		45931	48132	-	733	ABC transporter permease	4	NO
+48	D6867_00595	RJY15081.1		48139	48432	-	97	hypothetical protein	6	YES
+49	D6867_00600	RJY15082.1		48597	48767	-	56	hypothetical protein	164	NO
+50	D6867_00605	RJY15083.1		48950	49813	+	287	XRE family transcriptional regulator	182	NO
+51	D6867_00610	RJY15084.1		50245	51453	-	402	ATP-binding protein	431	NO
+52	D6867_00615	RJY15085.1		51858	52034	+	58	hypothetical protein	404	NO
+53	D6867_00620			52034	52239	+	0	cell filamentation protein	-1	NO
+54	D6867_00625	RJY15086.1		52435	54648	+	737	alpha-xylosidase	195	NO
+55	D6867_00630	RJY15087.1		54870	55346	-	158	glutathione peroxidase	221	NO
+56	D6867_00635			55520	55921	-	0	DUF3278 domain-containing protein	173	NO
+57	D6867_00640	RJY15088.1		55948	56274	-	108	hypothetical protein	26	NO
+58	D6867_00645	RJY15089.1		56285	56527	-	80	hypothetical protein	10	NO
+59	D6867_00650	RJY15090.1		56538	57080	-	180	DUF3278 domain-containing protein	10	NO
+60	D6867_00655	RJY15091.1		57096	57290	-	64	transcriptional regulator	15	NO
+61	D6867_00660			57498	57787	+	0	IS30 family transposase	207	NO

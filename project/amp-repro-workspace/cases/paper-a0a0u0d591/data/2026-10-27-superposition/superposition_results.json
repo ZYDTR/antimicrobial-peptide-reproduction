@@ -1,0 +1,95 @@
+[
+  {
+    "comparison": "full_length_vs_2lgn",
+    "description": "Candidate full length (1-97) vs 2LGN (1-66)",
+    "candidate_len": 97,
+    "target_len": 66,
+    "tm_score_norm_candidate": 0.547,
+    "tm_score_norm_2lgn": 0.7664,
+    "rmsd_angstrom": 1.372,
+    "rotation_matrix": [
+      [
+        -0.8812806292793529,
+        -0.46592157899526215,
+        0.0791298596204351
+      ],
+      [
+        -0.3786927189150422,
+        0.7963776073046235,
+        0.4715660412121473
+      ],
+      [
+        -0.2827300427929812,
+        0.3856161158591862,
+        -0.8782732684603092
+      ]
+    ],
+    "translation_vector": [
+      1.0669187626386072,
+      -0.6085339531355826,
+      -2.837386196745236
+    ]
+  },
+  {
+    "comparison": "mature_chain_vs_2lgn",
+    "description": "Candidate predicted mature chain (29-97) vs 2LGN (1-66)",
+    "candidate_len": 69,
+    "target_len": 66,
+    "tm_score_norm_candidate": 0.7381,
+    "tm_score_norm_2lgn": 0.7664,
+    "rmsd_angstrom": 1.372,
+    "rotation_matrix": [
+      [
+        -0.8812806292793529,
+        -0.46592157899526215,
+        0.0791298596204351
+      ],
+      [
+        -0.3786927189150422,
+        0.7963776073046235,
+        0.4715660412121473
+      ],
+      [
+        -0.2827300427929812,
+        0.3856161158591862,
+        -0.8782732684603092
+      ]
+    ],
+    "translation_vector": [
+      1.0669187626386072,
+      -0.6085339531355826,
+      -2.837386196745236
+    ]
+  },
+  {
+    "comparison": "foldseek_core_vs_2lgn_core",
+    "description": "Candidate Foldseek core alignment (40-97) vs 2LGN core (4-66)",
+    "candidate_len": 58,
+    "target_len": 63,
+    "tm_score_norm_candidate": 0.8122,
+    "tm_score_norm_2lgn": 0.7586,
+    "rmsd_angstrom": 1.365,
+    "rotation_matrix": [
+      [
+        -0.8787563370002044,
+        -0.4705049514652101,
+        0.08007740523208258
+      ],
+      [
+        -0.37933391317697496,
+        0.790355568602408,
+        0.48108612274000123
+      ],
+      [
+        -0.2896430259747784,
+        0.39238140351689005,
+        -0.8730084488012066
+      ]
+    ],
+    "translation_vector": [
+      1.07597736311387,
+      -0.5566261576402363,
+      -2.8095210496863485
+    ]
+  }
+]

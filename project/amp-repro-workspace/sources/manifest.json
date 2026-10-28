@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "review_date": "2026-10-26",
+  "files": [
+    {
+      "file": "deepmind-antimicrobial-peptides-antigravity.pdf",
+      "bytes": 981491,
+      "sha256": "aed8251b77cb033245a6feee4aa7b36540adeca2800c7cda1a8482fe72921718",
+      "provenance": "user_supplied_pdf"
+    },
+    {
+      "file": "article.txt",
+      "bytes": 8872,
+      "sha256": "6ffb1de9bb46b8994b6426b49227d18183523c9e1b82252d0a07306b93ea1159",
+      "provenance": "text_extracted_from_user_supplied_pdf"
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "analysis_at_utc": "2026-10-23T10:34:43+00:00",
+  "accession": "A0A0U0D591",
+  "sequence_length": 97,
+  "sequence_sha256": "3293589f367bc9445263970dacee349d00810ceaa201ba1336959dbb0f54fe63",
+  "sequence_md5": "689939f320695e8896a375c76abe3cbd",
+  "entry_type": "UniProtKB unreviewed (TrEMBL)",
+  "entry_audit": {
+    "firstPublicDate": "2016-02-17",
+    "lastAnnotationUpdateDate": "2026-09-02",
+    "lastSequenceUpdateDate": "2016-02-17",
+    "entryVersion": 48,
+    "sequenceVersion": 1
+  },
+  "secondary_accessions": [
+    "A0A1S9ZDB9"
+  ],
+  "uniparc_id": "UPI00021AFD18",
+  "protein_existence": "4: Predicted",
+  "strains_in_references": [
+    "Spain2270"
+  ],
+  "caution_comments": [
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "EMBL",
+              "id": "RJY15081.1"
+            }
+          ],
+          "value": "The sequence shown here is derived from an EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is preliminary data"
+        }
+      ],
+      "commentType": "CAUTION"
+    }
+  ],
+  "organism": {
+    "scientificName": "Streptococcus pseudopneumoniae",
+    "taxonId": 257758,
+    "evidences": [
+      {
+        "evidenceCode": "ECO:0000313",
+        "source": "EMBL",
+        "id": "RJY15081.1"
+      },
+      {
+        "evidenceCode": "ECO:0000313",
+        "source": "Proteomes",
+        "id": "UP000285038"
+      }
+    ],
+    "lineage": [
+      "Bacteria",
+      "Bacillati",
+      "Bacillota",
+      "Bacilli",
+      "Lactobacillales",
+      "Streptococcaceae",
+      "Streptococcus"
+    ]
+  },
+  "genes": [
+    {
+      "orfNames": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "EMBL",
+              "id": "RJY15081.1"
+            }
+          ],
+          "value": "D6867_00595"
+        }
+      ]
+    }
+  ],
+  "protein_name": "Lactococcin 972 family bacteriocin",
+  "protein_name_evidence": [
+    {
+      "evidenceCode": "ECO:0008006",
+      "source": "Google",
+      "id": "ProtNLM"
+    }
+  ],
+  "cross_references": [
+    {
+      "database": "EMBL",
+      "id": "RAHZ01000002",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "RJY15081.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "RefSeq",
+      "id": "WP_000748217.1",
+      "properties": [
+        {
+          "key": "NucleotideSequenceId",
+          "value": "NZ_CGVP01000055.1"
+        }
+      ]
+    },
+    {
+      "database": "AlphaFoldDB",
+      "id": "A0A0U0D591",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "GeneID",
+      "id": "45219186",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Proteomes",
+      "id": "UP000285038",
+      "properties": [
+        {
+          "key": "Component",
+          "value": "Unassembled WGS sequence"
+        }
+      ]
+    }
+  ],
+  "sequence_features": [
+    {
+      "type": "Signal",
+      "location": {
+        "start": {
+          "value": 1,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 28,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "SAM",
+          "id": "SignalP"
+        }
+      ]
+    },
+    {
+      "type": "Chain",
+      "location": {
+        "start": {
+          "value": 29,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 97,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Lactococcin 972 family bacteriocin",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "SAM",
+          "id": "SignalP"
+        }
+      ],
+      "featureId": "PRO_5015046860"
+    }
+  ],
+  "alphafold": {
+    "entryId": "AF-A0A0U0D591-F1",
+    "modelEntityId": "AF-A0A0U0D591-F1",
+    "latestVersion": 6,
+    "modelCreatedDate": "2022-06-01T00:00:00Z",
+    "toolUsed": "AlphaFold Monomer v2.0 pipeline",
+    "sequenceVersionDate": "2016-02-17T00:00:00Z",
+    "globalMetricValue": 88.5,
+    "gene": "ERS021757_02243",
+    "sequenceChecksum": "689939f320695e8896a375c76abe3cbd",
+    "pdbUrl": "https://alphafold.ebi.ac.uk/files/AF-A0A0U0D591-F1-model_v6.pdb"
+  },
+  "confidence": {
+    "source": "AlphaFold confidence JSON, cross-checked against PDB CA B-factors",
+    "count": 97,
+    "mean_plddt": 88.4988,
+    "min_plddt": 52.56,
+    "max_plddt": 98.19,
+    "band_boundaries": "[0,50), [50,70), [70,90), [90,100]",
+    "band_counts": {
+      "low_50_to_70": 10,
+      "confident_70_to_90": 26,
+      "very_high_90_to_100": 61
+    },
+    "positions_below_70": [
+      1,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "annotated_feature_regions": [
+      {
+        "feature_type": "Signal",
+        "start_1_based": 1,
+        "end_1_based": 28,
+        "length": 28,
+        "mean_plddt": 72.9782,
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000256",
+            "source": "SAM",
+            "id": "SignalP"
+          }
+        ],
+        "interpretation": "Region boundaries are existing UniProt annotations, not inferred from pLDDT or experimentally verified by this script."
+      },
+      {
+        "feature_type": "Chain",
+        "start_1_based": 29,
+        "end_1_based": 97,
+        "length": 69,
+        "mean_plddt": 94.797,
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000256",
+            "source": "SAM",
+            "id": "SignalP"
+          }
+        ],
+        "interpretation": "Region boundaries are existing UniProt annotations, not inferred from pLDDT or experimentally verified by this script."
+      }
+    ]
+  },
+  "checks": {
+    "download_hashes_match": true,
+    "json_fasta_sequences_match": true,
+    "uniprot_alphafold_api_sequences_match": true,
+    "uniprot_pdb_ca_sequences_match": true,
+    "confidence_json_matches_pdb": true
+  },
+  "warnings": [
+    "pLDDT measures predicted local structural confidence; it is not an antimicrobial-activity probability.",
+    "This workflow does not experimentally determine a signal-peptide cleavage site or mature-peptide sequence. Any existing UniProt features are reproduced as database annotations, with their original evidence.",
+    "Current database results are a dated snapshot, not a recreation of the authors' original database versions.",
+    "BLAST, Foldseek, experimental validation and genomic-neighborhood validation are not performed by this script.",
+    "AlphaFold gene label differs from current UniProt locus labels. Confirm strain/contig before analyzing neighboring genes."
+  ]
+}

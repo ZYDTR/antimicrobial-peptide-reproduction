@@ -1,0 +1,367 @@
+{
+  "hitCount": 1,
+  "nextCursorMark": "",
+  "results": [
+    {
+      "id": "30824850",
+      "source": "MED",
+      "pmid": "30824850",
+      "pmcid": "PMC6397248",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC6397248"
+        ]
+      },
+      "doi": "10.1038/s41598-019-39791-1",
+      "title": "Identification of Streptococcus pneumoniae by a real-time PCR assay targeting SP2020.",
+      "authorString": "Tavares DA, Handem S, Carvalho RJ, Paulo AC, de Lencastre H, Hinds J, S\u00e1-Le\u00e3o R.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Tavares DA",
+            "lastName": "Tavares",
+            "firstName": "D\u00e9bora A",
+            "initials": "DA",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratory of Molecular Microbiology of Human Pathogens, Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa (ITQB-NOVA), Oeiras, Portugal."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Handem S",
+            "lastName": "Handem",
+            "firstName": "Sara",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratory of Molecular Microbiology of Human Pathogens, Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa (ITQB-NOVA), Oeiras, Portugal."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Carvalho RJ",
+            "lastName": "Carvalho",
+            "firstName": "Ricardo J",
+            "initials": "RJ",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratory of Molecular Microbiology of Human Pathogens, Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa (ITQB-NOVA), Oeiras, Portugal."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Paulo AC",
+            "lastName": "Paulo",
+            "firstName": "A Cristina",
+            "initials": "AC",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-9249-2609"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratory of Molecular Microbiology of Human Pathogens, Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa (ITQB-NOVA), Oeiras, Portugal."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "de Lencastre H",
+            "lastName": "de Lencastre",
+            "firstName": "Herm\u00ednia",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratory of Molecular Genetics, ITQB-NOVA, Oeiras, Portugal."
+                },
+                {
+                  "affiliation": "Laboratory of Microbiology and Infectious Diseases, The Rockefeller University, New York, NY, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hinds J",
+            "lastName": "Hinds",
+            "firstName": "Jason",
+            "initials": "J",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2739-1908"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Infection and Immunity, St George's University of London, London, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "S\u00e1-Le\u00e3o R",
+            "lastName": "S\u00e1-Le\u00e3o",
+            "firstName": "Raquel",
+            "initials": "R",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9804-827X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratory of Molecular Microbiology of Human Pathogens, Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa (ITQB-NOVA), Oeiras, Portugal. rsaleao@itqb.unl.pt."
+                },
+                {
+                  "affiliation": "Departamento de Biologia Vegetal, Faculdade de Ci\u00eancias, Universidade de Lisboa, Lisboa, Portugal. rsaleao@itqb.unl.pt."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9804-827X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2739-1908"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-9249-2609"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "9",
+        "journalIssueId": 2787935,
+        "dateOfPublication": "2019 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2019,
+        "journal": {
+          "medlineAbbreviation": "Sci Rep",
+          "title": "Scientific reports",
+          "essn": "2045-2322",
+          "issn": "2045-2322",
+          "isoabbreviation": "Sci Rep",
+          "nlmid": "101563288"
+        },
+        "printPublicationDate": "2019-03-01"
+      },
+      "pubYear": "2019",
+      "pageInfo": "3285",
+      "abstractText": "Real-time PCR targeting lytA (the major autolysin gene) and piaB (permease gene of the pia ABC transporter) are currently used as the gold-standard culture-independent assays for Streptococcus pneumoniae identification. We evaluated the performance of a new real-time PCR assay - targeting SP2020 (putative transcriptional regulator gene) - and compared its performance with the assays previously described. A collection of 150 pneumococci, 433 non-pneumococci and 240 polymicrobial samples (obtained from nasopharynx, oropharynx, and saliva; 80 from each site) was tested. SP2020 and lytA-CDC assays had the best performance (sensitivity of 100% for each compared to 95.3% for piaB). The specificity for lytA and piaB was 99.5% and for SP2020 was 99.8%. Misidentifications occurred for the three genes: lytA, piaB and SP2020 were found in non-pneumococcal strains; piaB was absent in some pneumococci including a serotype 6B strain. Combining lytA and SP2020 assays resulted in no misidentifications. Most polymicrobial samples (88.8%) yielded concordant results for the three molecular targets. The remaining samples seemed to contain non-typeable pneumococci (0.8%), and non-pneumococci positive for lytA (1.7%) or SP2020 (8.7%). We propose that combined detection of both lytA-CDC and SP2020 is a powerful strategy for the identification of pneumococcus either in pure cultures or in polymicrobial samples.",
+      "affiliation": "Laboratory of Molecular Microbiology of Human Pathogens, Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa (ITQB-NOVA), Oeiras, Portugal.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Nasopharynx",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "Y",
+                  "abbreviation": "MI",
+                  "qualifierName": "microbiology"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Streptococcus pneumoniae",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "Y",
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Pneumococcal Infections",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "Y",
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "MI",
+                  "qualifierName": "microbiology"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Bacterial Proteins",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "Y",
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "DNA, Bacterial",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "Y",
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adult"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Middle Aged"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Real-Time Polymerase Chain Reaction"
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "DNA, Bacterial",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Bacterial Proteins",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.nature.com/articles/s41598-019-39791-1.pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41598-019-39791-1"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6397248"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6397248?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 60,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasData": "Y",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "bioproject",
+          "gen"
+        ]
+      },
+      "dateOfCompletion": "2020-09-17",
+      "dateOfCreation": "2019-03-03",
+      "dateOfRevision": "2020-09-17",
+      "electronicPublicationDate": "2019-03-01",
+      "firstPublicationDate": "2019-03-01",
+      "firstIndexDate": "2019-03-03",
+      "fullTextReceivedDate": "2025-02-05",
+      "hasEvaluations": "N"
+    }
+  ]
+}

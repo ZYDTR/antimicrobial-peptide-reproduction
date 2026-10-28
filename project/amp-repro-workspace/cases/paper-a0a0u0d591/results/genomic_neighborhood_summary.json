@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "accession": "A0A0U0D591",
+  "contig": "RAHZ01000002.1",
+  "organism": "Streptococcus pseudopneumoniae strain Spain2270",
+  "target": {
+    "locus_tag": "D6867_00595",
+    "protein_id": "RJY15081.1",
+    "coords_1based_inclusive": [
+      48139,
+      48432
+    ],
+    "strand": "-",
+    "length_aa": 97,
+    "product": "hypothetical protein",
+    "translation_matches_candidate": true,
+    "translation_sha256": "3293589f367bc9445263970dacee349d00810ceaa201ba1336959dbb0f54fe63"
+  },
+  "immediate_downstream_operon_partner": {
+    "locus_tag": "D6867_00590",
+    "protein_id": "RJY15080.1",
+    "coords_1based_inclusive": [
+      45931,
+      48132
+    ],
+    "strand": "-",
+    "length_aa": 733,
+    "product": "ABC transporter permease",
+    "intergenic_distance_bp": 6,
+    "author_claim_reproduced": true
+  },
+  "flanking_operon_features": [
+    {
+      "offset": -3,
+      "locus_tag": "D6867_00580",
+      "protein_id": "RJY15078.1",
+      "product": "lactococcin 972 family bacteriocin",
+      "coords": [
+        44373,
+        44669
+      ],
+      "strand": "-"
+    },
+    {
+      "offset": -2,
+      "locus_tag": "D6867_00585",
+      "protein_id": "RJY15079.1",
+      "product": "ABC transporter ATP-binding protein",
+      "coords": [
+        45285,
+        45926
+      ],
+      "strand": "-"
+    },
+    {
+      "offset": -1,
+      "locus_tag": "D6867_00590",
+      "protein_id": "RJY15080.1",
+      "product": "ABC transporter permease",
+      "coords": [
+        45931,
+        48132
+      ],
+      "strand": "-"
+    },
+    {
+      "offset": 0,
+      "locus_tag": "D6867_00595",
+      "protein_id": "RJY15081.1",
+      "product": "hypothetical protein",
+      "coords": [
+        48139,
+        48432
+      ],
+      "strand": "-"
+    }
+  ]
+}

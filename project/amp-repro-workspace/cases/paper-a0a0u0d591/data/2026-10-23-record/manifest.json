@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "accession": "A0A0U0D591",
+  "created_at_utc": "2026-10-23T10:30:14+00:00",
+  "downloads": [
+    {
+      "role": "uniprot_json",
+      "file": "uniprot.json",
+      "requested_url": "https://rest.uniprot.org/uniprotkb/A0A0U0D591.json",
+      "requested_at_utc": "2026-10-23T10:30:14+00:00",
+      "http_status": 200,
+      "final_url": "https://rest.uniprot.org/uniprotkb/A0A0U0D591.json",
+      "retrieved_at_utc": "2026-10-23T10:30:14+00:00",
+      "headers": {
+        "Content-Type": "application/json",
+        "Date": "Fri, 23 Oct 2026 10:30:14 GMT",
+        "X-UniProt-Release": "2026_03",
+        "X-UniProt-Release-Date": "02-September-2026"
+      },
+      "bytes": 3642,
+      "sha256": "70f7aefeb5689aa2b37299cdda67b36e4c91a051bfa73fde99293d1b9976ec17"
+    },
+    {
+      "role": "uniprot_fasta",
+      "file": "candidate.fasta",
+      "requested_url": "https://rest.uniprot.org/uniprotkb/A0A0U0D591.fasta",
+      "requested_at_utc": "2026-10-23T10:30:14+00:00",
+      "http_status": 200,
+      "final_url": "https://rest.uniprot.org/uniprotkb/A0A0U0D591.fasta",
+      "retrieved_at_utc": "2026-10-23T10:30:15+00:00",
+      "headers": {
+        "Content-Type": "text/plain;format=fasta",
+        "Date": "Fri, 23 Oct 2026 10:30:15 GMT",
+        "X-UniProt-Release": "2026_03",
+        "X-UniProt-Release-Date": "02-September-2026"
+      },
+      "bytes": 235,
+      "sha256": "cf7468cbe9b771607507ce5de11dc05b66d3094d1d98156958453c0a55be8ad9"
+    },
+    {
+      "role": "alphafold_api",
+      "file": "alphafold_api.json",
+      "requested_url": "https://alphafold.ebi.ac.uk/api/prediction/A0A0U0D591",
+      "requested_at_utc": "2026-10-23T10:30:15+00:00",
+      "http_status": 200,
+      "final_url": "https://alphafold.ebi.ac.uk/api/prediction/A0A0U0D591",
+      "retrieved_at_utc": "2026-10-23T10:30:15+00:00",
+      "headers": {
+        "Content-Type": "application/json",
+        "Date": "Fri, 23 Oct 2026 10:30:15 GMT"
+      },
+      "bytes": 1731,
+      "sha256": "b5cb2caffb5e121e90006637019e2c859b35922d8d94dfd533f202b8f7df0225"
+    },
+    {
+      "role": "alphafold_pdb",
+      "file": "alphafold_model.pdb",
+      "requested_url": "https://alphafold.ebi.ac.uk/files/AF-A0A0U0D591-F1-model_v6.pdb",
+      "requested_at_utc": "2026-10-23T10:30:15+00:00",
+      "http_status": 200,
+      "final_url": "https://alphafold.ebi.ac.uk/files/AF-A0A0U0D591-F1-model_v6.pdb",
+      "retrieved_at_utc": "2026-10-23T10:30:15+00:00",
+      "headers": {
+        "Content-Type": "application/octet-stream",
+        "ETag": "W/\"9ad3bb822ea38ef7c11b1db1d7b3834a\"",
+        "Last-Modified": "Thu, 18 Sep 2025 15:35:21 GMT",
+        "Date": "Fri, 23 Oct 2026 10:30:15 GMT"
+      },
+      "bytes": 64151,
+      "sha256": "4780f2442682ba1b8a7d70cbd76cda06d56b8331dcb5ba8e467ca58d2a3c59bd"
+    },
+    {
+      "role": "alphafold_confidence",
+      "file": "alphafold_confidence.json",
+      "requested_url": "https://alphafold.ebi.ac.uk/files/AF-A0A0U0D591-F1-confidence_v6.json",
+      "requested_at_utc": "2026-10-23T10:30:15+00:00",
+      "http_status": 200,
+      "final_url": "https://alphafold.ebi.ac.uk/files/AF-A0A0U0D591-F1-confidence_v6.json",
+      "retrieved_at_utc": "2026-10-23T10:30:16+00:00",
+      "headers": {
+        "Content-Type": "application/octet-stream",
+        "ETag": "W/\"677ecaec9b33931289e6af51a4ab25d2\"",
+        "Last-Modified": "Thu, 18 Sep 2025 16:43:54 GMT",
+        "Date": "Fri, 23 Oct 2026 10:30:15 GMT"
+      },
+      "bytes": 1304,
+      "sha256": "1475f9a9cfc9dc6eb42f588011b58ad2d2d26c7ee7c2cdea77b7f9af73dca77a"
+    }
+  ],
+  "record_versions": {
+    "uniprot": {
+      "firstPublicDate": "2016-02-17",
+      "lastAnnotationUpdateDate": "2026-09-02",
+      "lastSequenceUpdateDate": "2016-02-17",
+      "entryVersion": 48,
+      "sequenceVersion": 1
+    },
+    "alphafold": {
+      "entryId": "AF-A0A0U0D591-F1",
+      "modelEntityId": "AF-A0A0U0D591-F1",
+      "latestVersion": 6,
+      "modelCreatedDate": "2022-06-01T00:00:00Z",
+      "sequenceVersionDate": "2016-02-17T00:00:00Z"
+    }
+  }
+}

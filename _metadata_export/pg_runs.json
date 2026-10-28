@@ -1,0 +1,947 @@
+[
+  {
+    "run_sequence": 1,
+    "id": "run_d1a731a40438431f",
+    "status": "failed",
+    "conversation_phase": "idle",
+    "phase_label": "运行中",
+    "phase_detail": "model_proxy_error",
+    "started_at": "2026-10-26T10:08:43.610833+00:00",
+    "runtime_session_id": "5f888c57-5e37-478d-a473-347de1166089",
+    "worker_instance_id": "worker_cf46903fd0f2",
+    "request_options": {
+      "stream": true,
+      "max_turns": 10000,
+      "runtime_type": "claude_code_sdk",
+      "allowed_tools": null,
+      "collaboration": null,
+      "expected_runtime_session_id": null
+    },
+    "runtime_config": {
+      "max_turns": 10000,
+      "claude_model": "gemini-3.8-flash",
+      "conversation": {
+        "tools": {
+          "main": [
+            "Read",
+            "Glob",
+            "Grep",
+            "Edit",
+            "Write",
+            "Bash",
+            "Agent",
+            "SendMessage",
+            "Workflow",
+            "mcp__conversation-scheduler__schedule_prompt"
+          ],
+          "disallowed": [
+            "AskUserQuestion",
+            "EnterPlanMode",
+            "ExitPlanMode",
+            "WebSearch",
+            "WebFetch",
+            "CronCreate",
+            "CronDelete",
+            "CronList",
+            "ScheduleWakeup",
+            "EnterWorktree",
+            "ExitWorktree",
+            "TaskOutput"
+          ],
+          "research_agent": [
+            "Read",
+            "Glob",
+            "Grep",
+            "Edit",
+            "Write",
+            "Bash",
+            "SendMessage",
+            "StructuredOutput"
+          ]
+        },
+        "agents": [
+          {
+            "name": "general-purpose",
+            "agent_kind": "sdk_builtin",
+            "agent_type": "general-purpose",
+            "description": "SDK 原生通用 Agent，可处理不需要特定 ResearchAgent 的任务。",
+            "research_agent_version_id": null
+          }
+        ],
+        "skills": [],
+        "skill_index_path": "/runtime_assets/skills/scientific-agent-platform/skills/SKILLS_INDEX.md",
+        "capability_errors": [
+          {
+            "capability": "hi",
+            "error_code": "hi_runtime_env_unavailable",
+            "error_message": "HI 的地址或访问凭据未就绪，请检查用户权限和平台配置。"
+          },
+          {
+            "capability": "pi",
+            "error_code": "pi_runtime_env_unavailable",
+            "error_message": "PI 的地址或访问凭据未就绪，请检查用户权限和平台配置。"
+          }
+        ],
+        "max_concurrent_subagents": 7
+      },
+      "runtime_type": "claude_code_sdk",
+      "worker_image": "csc-temptest-20261022-worker:candidate",
+      "allowed_tools": [
+        "Read",
+        "Glob",
+        "Grep",
+        "Edit",
+        "Write",
+        "Bash",
+        "Agent",
+        "SendMessage",
+        "Workflow",
+        "mcp__conversation-scheduler__schedule_prompt"
+      ],
+      "collaboration": null,
+      "worker_container_id": "092773f233b9946133a7a4659bfe0483c321b0c6b8e767a61181882d58133bf8",
+      "worker_source_digest": "42ffc55720f468ca",
+      "execution_lock_version": 1
+    }
+  },
+  {
+    "run_sequence": 2,
+    "id": "run_2e6b38ef59fe4ca8",
+    "status": "completed",
+    "conversation_phase": "idle",
+    "phase_label": "保存结果",
+    "phase_detail": "finalizing",
+    "started_at": "2026-10-27T04:21:28.744398+00:00",
+    "runtime_session_id": "5f888c57-5e37-478d-a473-347de1166089",
+    "worker_instance_id": "worker_cf46903fd0f2",
+    "request_options": {
+      "stream": true,
+      "max_turns": 10000,
+      "runtime_type": "claude_code_sdk",
+      "allowed_tools": null,
+      "collaboration": null,
+      "expected_runtime_session_id": null
+    },
+    "runtime_config": {
+      "max_turns": 10000,
+      "claude_model": "gemini-3.8-flash",
+      "conversation": {
+        "tools": {
+          "main": [
+            "Read",
+            "Glob",
+            "Grep",
+            "Edit",
+            "Write",
+            "Bash",
+            "Agent",
+            "SendMessage",
+            "Workflow",
+            "mcp__conversation-scheduler__schedule_prompt"
+          ],
+          "disallowed": [
+            "AskUserQuestion",
+            "EnterPlanMode",
+            "ExitPlanMode",
+            "WebSearch",
+            "WebFetch",
+            "CronCreate",
+            "CronDelete",
+            "CronList",
+            "ScheduleWakeup",
+            "EnterWorktree",
+            "ExitWorktree",
+            "TaskOutput"
+          ],
+          "research_agent": [
+            "Read",
+            "Glob",
+            "Grep",
+            "Edit",
+            "Write",
+            "Bash",
+            "SendMessage",
+            "StructuredOutput"
+          ]
+        },
+        "agents": [
+          {
+            "name": "general-purpose",
+            "agent_kind": "sdk_builtin",
+            "agent_type": "general-purpose",
+            "description": "SDK 原生通用 Agent，可处理不需要特定 ResearchAgent 的任务。",
+            "research_agent_version_id": null
+          }
+        ],
+        "skills": [],
+        "skill_index_path": "/runtime_assets/skills/scientific-agent-platform/skills/SKILLS_INDEX.md",
+        "capability_errors": [
+          {
+            "capability": "hi",
+            "error_code": "hi_runtime_env_unavailable",
+            "error_message": "HI 的地址或访问凭据未就绪，请检查用户权限和平台配置。"
+          },
+          {
+            "capability": "pi",
+            "error_code": "pi_runtime_env_unavailable",
+            "error_message": "PI 的地址或访问凭据未就绪，请检查用户权限和平台配置。"
+          }
+        ],
+        "max_concurrent_subagents": 7
+      },
+      "runtime_type": "claude_code_sdk",
+      "worker_image": "csc-temptest-20261022-worker:candidate",
+      "allowed_tools": [
+        "Read",
+        "Glob",
+        "Grep",
+        "Edit",
+        "Write",
+        "Bash",
+        "Agent",
+        "SendMessage",
+        "Workflow",
+        "mcp__conversation-scheduler__schedule_prompt"
+      ],
+      "collaboration": null,
+      "worker_container_id": "092773f233b9946133a7a4659bfe0483c321b0c6b8e767a61181882d58133bf8",
+      "worker_source_digest": "42ffc55720f468ca",
+      "execution_lock_version": 1
+    }
+  },
+  {
+    "run_sequence": 3,
+    "id": "run_381131c2a69b491f",
+    "status": "completed",
+    "conversation_phase": "idle",
+    "phase_label": "保存结果",
+    "phase_detail": "finalizing",
+    "started_at": "2026-10-27T05:01:35.403906+00:00",
+    "runtime_session_id": "5f888c57-5e37-478d-a473-347de1166089",
+    "worker_instance_id": "worker_cf46903fd0f2",
+    "request_options": {
+      "stream": true,
+      "max_turns": 10000,
+      "runtime_type": "claude_code_sdk",
+      "allowed_tools": null,
+      "collaboration": null,
+      "expected_runtime_session_id": null
+    },
+    "runtime_config": {
+      "max_turns": 10000,
+      "claude_model": "gemini-3.8-flash",
+      "conversation": {
+        "tools": {
+          "main": [
+            "Read",
+            "Glob",
+            "Grep",
+            "Edit",
+            "Write",
+            "Bash",
+            "Agent",
+            "SendMessage",
+            "Workflow",
+            "mcp__conversation-scheduler__schedule_prompt"
+          ],
+          "disallowed": [
+            "AskUserQuestion",
+            "EnterPlanMode",
+            "ExitPlanMode",
+            "WebSearch",
+            "WebFetch",
+            "CronCreate",
+            "CronDelete",
+            "CronList",
+            "ScheduleWakeup",
+            "EnterWorktree",
+            "ExitWorktree",
+            "TaskOutput"
+          ],
+          "research_agent": [
+            "Read",
+            "Glob",
+            "Grep",
+            "Edit",
+            "Write",
+            "Bash",
+            "SendMessage",
+            "StructuredOutput"
+          ]
+        },
+        "agents": [
+          {
+            "name": "general-purpose",
+            "agent_kind": "sdk_builtin",
+            "agent_type": "general-purpose",
+            "description": "SDK 原生通用 Agent，可处理不需要特定 ResearchAgent 的任务。",
+            "research_agent_version_id": null
+          }
+        ],
+        "skills": [],
+        "skill_index_path": "/runtime_assets/skills/scientific-agent-platform/skills/SKILLS_INDEX.md",
+        "capability_errors": [
+          {
+            "capability": "hi",
+            "error_code": "hi_runtime_env_unavailable",
+            "error_message": "HI 的地址或访问凭据未就绪，请检查用户权限和平台配置。"
+          },
+          {
+            "capability": "pi",
+            "error_code": "pi_runtime_env_unavailable",
+            "error_message": "PI 的地址或访问凭据未就绪，请检查用户权限和平台配置。"
+          }
+        ],
+        "max_concurrent_subagents": 7
+      },
+      "runtime_type": "claude_code_sdk",
+      "worker_image": "csc-temptest-20261022-worker:candidate",
+      "allowed_tools": [
+        "Read",
+        "Glob",
+        "Grep",
+        "Edit",
+        "Write",
+        "Bash",
+        "Agent",
+        "SendMessage",
+        "Workflow",
+        "mcp__conversation-scheduler__schedule_prompt"
+      ],
+      "collaboration": null,
+      "worker_container_id": "092773f233b9946133a7a4659bfe0483c321b0c6b8e767a61181882d58133bf8",
+      "worker_source_digest": "42ffc55720f468ca",
+      "execution_lock_version": 1
+    }
+  },
+  {
+    "run_sequence": 4,
+    "id": "run_5f49f6e3000646a7",
+    "status": "completed",
+    "conversation_phase": "idle",
+    "phase_label": "保存结果",
+    "phase_detail": "finalizing",
+    "started_at": "2026-10-27T05:15:34.160618+00:00",
+    "runtime_session_id": "5f888c57-5e37-478d-a473-347de1166089",
+    "worker_instance_id": "worker_cf46903fd0f2",
+    "request_options": {
+      "stream": true,
+      "max_turns": 10000,
+      "runtime_type": "claude_code_sdk",
+      "allowed_tools": null,
+      "collaboration": null,
+      "expected_runtime_session_id": null
+    },
+    "runtime_config": {
+      "max_turns": 10000,
+      "claude_model": "gemini-3.8-flash",
+      "conversation": {
+        "tools": {
+          "main": [
+            "Read",
+            "Glob",
+            "Grep",
+            "Edit",
+            "Write",
+            "Bash",
+            "Agent",
+            "SendMessage",
+            "Workflow",
+            "mcp__conversation-scheduler__schedule_prompt"
+          ],
+          "disallowed": [
+            "AskUserQuestion",
+            "EnterPlanMode",
+            "ExitPlanMode",
+            "WebSearch",
+            "WebFetch",
+            "CronCreate",
+            "CronDelete",
+            "CronList",
+            "ScheduleWakeup",
+            "EnterWorktree",
+            "ExitWorktree",
+            "TaskOutput"
+          ],
+          "research_agent": [
+            "Read",
+            "Glob",
+            "Grep",
+            "Edit",
+            "Write",
+            "Bash",
+            "SendMessage",
+            "StructuredOutput"
+          ]
+        },
+        "agents": [
+          {
+            "name": "general-purpose",
+            "agent_kind": "sdk_builtin",
+            "agent_type": "general-purpose",
+            "description": "SDK 原生通用 Agent，可处理不需要特定 ResearchAgent 的任务。",
+            "research_agent_version_id": null
+          }
+        ],
+        "skills": [],
+        "skill_index_path": "/runtime_assets/skills/scientific-agent-platform/skills/SKILLS_INDEX.md",
+        "capability_errors": [
+          {
+            "capability": "hi",
+            "error_code": "hi_runtime_env_unavailable",
+            "error_message": "HI 的地址或访问凭据未就绪，请检查用户权限和平台配置。"
+          },
+          {
+            "capability": "pi",
+            "error_code": "pi_runtime_env_unavailable",
+            "error_message": "PI 的地址或访问凭据未就绪，请检查用户权限和平台配置。"
+          }
+        ],
+        "max_concurrent_subagents": 7
+      },
+      "runtime_type": "claude_code_sdk",
+      "worker_image": "csc-temptest-20261022-worker:candidate",
+      "allowed_tools": [
+        "Read",
+        "Glob",
+        "Grep",
+        "Edit",
+        "Write",
+        "Bash",
+        "Agent",
+        "SendMessage",
+        "Workflow",
+        "mcp__conversation-scheduler__schedule_prompt"
+      ],
+      "collaboration": null,
+      "worker_container_id": "092773f233b9946133a7a4659bfe0483c321b0c6b8e767a61181882d58133bf8",
+      "worker_source_digest": "42ffc55720f468ca",
+      "execution_lock_version": 1
+    }
+  },
+  {
+    "run_sequence": 5,
+    "id": "run_09185b35bedc400a",
+    "status": "completed",
+    "conversation_phase": "idle",
+    "phase_label": "保存结果",
+    "phase_detail": "finalizing",
+    "started_at": "2026-10-27T05:39:20.180181+00:00",
+    "runtime_session_id": "5f888c57-5e37-478d-a473-347de1166089",
+    "worker_instance_id": "worker_cf46903fd0f2",
+    "request_options": {
+      "stream": true,
+      "max_turns": 10000,
+      "runtime_type": "claude_code_sdk",
+      "allowed_tools": null,
+      "collaboration": null,
+      "expected_runtime_session_id": null
+    },
+    "runtime_config": {
+      "max_turns": 10000,
+      "claude_model": "gemini-3.8-flash",
+      "conversation": {
+        "tools": {
+          "main": [
+            "Read",
+            "Glob",
+            "Grep",
+            "Edit",
+            "Write",
+            "Bash",
+            "Agent",
+            "SendMessage",
+            "Workflow",
+            "mcp__conversation-scheduler__schedule_prompt"
+          ],
+          "disallowed": [
+            "AskUserQuestion",
+            "EnterPlanMode",
+            "ExitPlanMode",
+            "WebSearch",
+            "WebFetch",
+            "CronCreate",
+            "CronDelete",
+            "CronList",
+            "ScheduleWakeup",
+            "EnterWorktree",
+            "ExitWorktree",
+            "TaskOutput"
+          ],
+          "research_agent": [
+            "Read",
+            "Glob",
+            "Grep",
+            "Edit",
+            "Write",
+            "Bash",
+            "SendMessage",
+            "StructuredOutput"
+          ]
+        },
+        "agents": [
+          {
+            "name": "general-purpose",
+            "agent_kind": "sdk_builtin",
+            "agent_type": "general-purpose",
+            "description": "SDK 原生通用 Agent，可处理不需要特定 ResearchAgent 的任务。",
+            "research_agent_version_id": null
+          }
+        ],
+        "skills": [],
+        "skill_index_path": "/runtime_assets/skills/scientific-agent-platform/skills/SKILLS_INDEX.md",
+        "capability_errors": [
+          {
+            "capability": "hi",
+            "error_code": "hi_runtime_env_unavailable",
+            "error_message": "HI 的地址或访问凭据未就绪，请检查用户权限和平台配置。"
+          },
+          {
+            "capability": "pi",
+            "error_code": "pi_runtime_env_unavailable",
+            "error_message": "PI 的地址或访问凭据未就绪，请检查用户权限和平台配置。"
+          }
+        ],
+        "max_concurrent_subagents": 7
+      },
+      "runtime_type": "claude_code_sdk",
+      "worker_image": "csc-temptest-20261022-worker:candidate",
+      "allowed_tools": [
+        "Read",
+        "Glob",
+        "Grep",
+        "Edit",
+        "Write",
+        "Bash",
+        "Agent",
+        "SendMessage",
+        "Workflow",
+        "mcp__conversation-scheduler__schedule_prompt"
+      ],
+      "collaboration": null,
+      "worker_container_id": "092773f233b9946133a7a4659bfe0483c321b0c6b8e767a61181882d58133bf8",
+      "worker_source_digest": "42ffc55720f468ca",
+      "execution_lock_version": 1
+    }
+  },
+  {
+    "run_sequence": 6,
+    "id": "run_5fdf5fd41b044c1d",
+    "status": "completed",
+    "conversation_phase": "idle",
+    "phase_label": "保存结果",
+    "phase_detail": "finalizing",
+    "started_at": "2026-10-27T06:16:39.921354+00:00",
+    "runtime_session_id": "5f888c57-5e37-478d-a473-347de1166089",
+    "worker_instance_id": "worker_cf46903fd0f2",
+    "request_options": {
+      "stream": true,
+      "max_turns": 10000,
+      "runtime_type": "claude_code_sdk",
+      "allowed_tools": null,
+      "collaboration": null,
+      "expected_runtime_session_id": null
+    },
+    "runtime_config": {
+      "max_turns": 10000,
+      "claude_model": "gemini-3.8-flash",
+      "conversation": {
+        "tools": {
+          "main": [
+            "Read",
+            "Glob",
+            "Grep",
+            "Edit",
+            "Write",
+            "Bash",
+            "Agent",
+            "SendMessage",
+            "Workflow",
+            "mcp__conversation-scheduler__schedule_prompt"
+          ],
+          "disallowed": [
+            "AskUserQuestion",
+            "EnterPlanMode",
+            "ExitPlanMode",
+            "WebSearch",
+            "WebFetch",
+            "CronCreate",
+            "CronDelete",
+            "CronList",
+            "ScheduleWakeup",
+            "EnterWorktree",
+            "ExitWorktree",
+            "TaskOutput"
+          ],
+          "research_agent": [
+            "Read",
+            "Glob",
+            "Grep",
+            "Edit",
+            "Write",
+            "Bash",
+            "SendMessage",
+            "StructuredOutput"
+          ]
+        },
+        "agents": [
+          {
+            "name": "general-purpose",
+            "agent_kind": "sdk_builtin",
+            "agent_type": "general-purpose",
+            "description": "SDK 原生通用 Agent，可处理不需要特定 ResearchAgent 的任务。",
+            "research_agent_version_id": null
+          }
+        ],
+        "skills": [],
+        "skill_index_path": "/runtime_assets/skills/scientific-agent-platform/skills/SKILLS_INDEX.md",
+        "capability_errors": [
+          {
+            "capability": "hi",
+            "error_code": "hi_runtime_env_unavailable",
+            "error_message": "HI 的地址或访问凭据未就绪，请检查用户权限和平台配置。"
+          },
+          {
+            "capability": "pi",
+            "error_code": "pi_runtime_env_unavailable",
+            "error_message": "PI 的地址或访问凭据未就绪，请检查用户权限和平台配置。"
+          }
+        ],
+        "max_concurrent_subagents": 7
+      },
+      "runtime_type": "claude_code_sdk",
+      "worker_image": "csc-temptest-20261022-worker:candidate",
+      "allowed_tools": [
+        "Read",
+        "Glob",
+        "Grep",
+        "Edit",
+        "Write",
+        "Bash",
+        "Agent",
+        "SendMessage",
+        "Workflow",
+        "mcp__conversation-scheduler__schedule_prompt"
+      ],
+      "collaboration": null,
+      "worker_container_id": "092773f233b9946133a7a4659bfe0483c321b0c6b8e767a61181882d58133bf8",
+      "worker_source_digest": "42ffc55720f468ca",
+      "execution_lock_version": 1
+    }
+  },
+  {
+    "run_sequence": 7,
+    "id": "run_5488617236f94b29",
+    "status": "completed",
+    "conversation_phase": "idle",
+    "phase_label": "保存结果",
+    "phase_detail": "finalizing",
+    "started_at": "2026-10-27T07:29:35.508056+00:00",
+    "runtime_session_id": "5f888c57-5e37-478d-a473-347de1166089",
+    "worker_instance_id": "worker_cf46903fd0f2",
+    "request_options": {
+      "stream": true,
+      "max_turns": 10000,
+      "runtime_type": "claude_code_sdk",
+      "allowed_tools": null,
+      "collaboration": null,
+      "expected_runtime_session_id": null
+    },
+    "runtime_config": {
+      "max_turns": 10000,
+      "claude_model": "gemini-3.8-flash",
+      "conversation": {
+        "tools": {
+          "main": [
+            "Read",
+            "Glob",
+            "Grep",
+            "Edit",
+            "Write",
+            "Bash",
+            "Agent",
+            "SendMessage",
+            "Workflow",
+            "mcp__conversation-scheduler__schedule_prompt"
+          ],
+          "disallowed": [
+            "AskUserQuestion",
+            "EnterPlanMode",
+            "ExitPlanMode",
+            "WebSearch",
+            "WebFetch",
+            "CronCreate",
+            "CronDelete",
+            "CronList",
+            "ScheduleWakeup",
+            "EnterWorktree",
+            "ExitWorktree",
+            "TaskOutput"
+          ],
+          "research_agent": [
+            "Read",
+            "Glob",
+            "Grep",
+            "Edit",
+            "Write",
+            "Bash",
+            "SendMessage",
+            "StructuredOutput"
+          ]
+        },
+        "agents": [
+          {
+            "name": "general-purpose",
+            "agent_kind": "sdk_builtin",
+            "agent_type": "general-purpose",
+            "description": "SDK 原生通用 Agent，可处理不需要特定 ResearchAgent 的任务。",
+            "research_agent_version_id": null
+          }
+        ],
+        "skills": [],
+        "skill_index_path": "/runtime_assets/skills/scientific-agent-platform/skills/SKILLS_INDEX.md",
+        "capability_errors": [
+          {
+            "capability": "hi",
+            "error_code": "hi_runtime_env_unavailable",
+            "error_message": "HI 的地址或访问凭据未就绪，请检查用户权限和平台配置。"
+          },
+          {
+            "capability": "pi",
+            "error_code": "pi_runtime_env_unavailable",
+            "error_message": "PI 的地址或访问凭据未就绪，请检查用户权限和平台配置。"
+          }
+        ],
+        "max_concurrent_subagents": 7
+      },
+      "runtime_type": "claude_code_sdk",
+      "worker_image": "csc-temptest-20261022-worker:candidate",
+      "allowed_tools": [
+        "Read",
+        "Glob",
+        "Grep",
+        "Edit",
+        "Write",
+        "Bash",
+        "Agent",
+        "SendMessage",
+        "Workflow",
+        "mcp__conversation-scheduler__schedule_prompt"
+      ],
+      "collaboration": null,
+      "worker_container_id": "092773f233b9946133a7a4659bfe0483c321b0c6b8e767a61181882d58133bf8",
+      "worker_source_digest": "42ffc55720f468ca",
+      "execution_lock_version": 1
+    }
+  },
+  {
+    "run_sequence": 8,
+    "id": "run_8d42e864ed9442ff",
+    "status": "failed",
+    "conversation_phase": "idle",
+    "phase_label": "运行中",
+    "phase_detail": "model_proxy_error",
+    "started_at": "2026-10-27T07:39:52.903907+00:00",
+    "runtime_session_id": "5f888c57-5e37-478d-a473-347de1166089",
+    "worker_instance_id": "worker_cf46903fd0f2",
+    "request_options": {
+      "stream": true,
+      "max_turns": 10000,
+      "runtime_type": "claude_code_sdk",
+      "allowed_tools": null,
+      "collaboration": null,
+      "expected_runtime_session_id": null
+    },
+    "runtime_config": {
+      "max_turns": 10000,
+      "claude_model": "gemini-3.8-flash",
+      "conversation": {
+        "tools": {
+          "main": [
+            "Read",
+            "Glob",
+            "Grep",
+            "Edit",
+            "Write",
+            "Bash",
+            "Agent",
+            "SendMessage",
+            "Workflow",
+            "mcp__conversation-scheduler__schedule_prompt"
+          ],
+          "disallowed": [
+            "AskUserQuestion",
+            "EnterPlanMode",
+            "ExitPlanMode",
+            "WebSearch",
+            "WebFetch",
+            "CronCreate",
+            "CronDelete",
+            "CronList",
+            "ScheduleWakeup",
+            "EnterWorktree",
+            "ExitWorktree",
+            "TaskOutput"
+          ],
+          "research_agent": [
+            "Read",
+            "Glob",
+            "Grep",
+            "Edit",
+            "Write",
+            "Bash",
+            "SendMessage",
+            "StructuredOutput"
+          ]
+        },
+        "agents": [
+          {
+            "name": "general-purpose",
+            "agent_kind": "sdk_builtin",
+            "agent_type": "general-purpose",
+            "description": "SDK 原生通用 Agent，可处理不需要特定 ResearchAgent 的任务。",
+            "research_agent_version_id": null
+          }
+        ],
+        "skills": [],
+        "skill_index_path": "/runtime_assets/skills/scientific-agent-platform/skills/SKILLS_INDEX.md",
+        "capability_errors": [
+          {
+            "capability": "hi",
+            "error_code": "hi_runtime_env_unavailable",
+            "error_message": "HI 的地址或访问凭据未就绪，请检查用户权限和平台配置。"
+          },
+          {
+            "capability": "pi",
+            "error_code": "pi_runtime_env_unavailable",
+            "error_message": "PI 的地址或访问凭据未就绪，请检查用户权限和平台配置。"
+          }
+        ],
+        "max_concurrent_subagents": 7
+      },
+      "runtime_type": "claude_code_sdk",
+      "worker_image": "csc-temptest-20261022-worker:candidate",
+      "allowed_tools": [
+        "Read",
+        "Glob",
+        "Grep",
+        "Edit",
+        "Write",
+        "Bash",
+        "Agent",
+        "SendMessage",
+        "Workflow",
+        "mcp__conversation-scheduler__schedule_prompt"
+      ],
+      "collaboration": null,
+      "worker_container_id": "092773f233b9946133a7a4659bfe0483c321b0c6b8e767a61181882d58133bf8",
+      "worker_source_digest": "42ffc55720f468ca",
+      "execution_lock_version": 1
+    }
+  },
+  {
+    "run_sequence": 9,
+    "id": "run_44f52e2108bc4a76",
+    "status": "failed",
+    "conversation_phase": "idle",
+    "phase_label": "运行中",
+    "phase_detail": "model_proxy_error",
+    "started_at": "2026-10-27T07:50:21.481552+00:00",
+    "runtime_session_id": "5f888c57-5e37-478d-a473-347de1166089",
+    "worker_instance_id": "worker_cf46903fd0f2",
+    "request_options": {
+      "stream": true,
+      "max_turns": 10000,
+      "runtime_type": "claude_code_sdk",
+      "allowed_tools": null,
+      "collaboration": null,
+      "expected_runtime_session_id": null
+    },
+    "runtime_config": {
+      "max_turns": 10000,
+      "claude_model": "gemini-3.8-flash",
+      "conversation": {
+        "tools": {
+          "main": [
+            "Read",
+            "Glob",
+            "Grep",
+            "Edit",
+            "Write",
+            "Bash",
+            "Agent",
+            "SendMessage",
+            "Workflow",
+            "mcp__conversation-scheduler__schedule_prompt"
+          ],
+          "disallowed": [
+            "AskUserQuestion",
+            "EnterPlanMode",
+            "ExitPlanMode",
+            "WebSearch",
+            "WebFetch",
+            "CronCreate",
+            "CronDelete",
+            "CronList",
+            "ScheduleWakeup",
+            "EnterWorktree",
+            "ExitWorktree",
+            "TaskOutput"
+          ],
+          "research_agent": [
+            "Read",
+            "Glob",
+            "Grep",
+            "Edit",
+            "Write",
+            "Bash",
+            "SendMessage",
+            "StructuredOutput"
+          ]
+        },
+        "agents": [
+          {
+            "name": "general-purpose",
+            "agent_kind": "sdk_builtin",
+            "agent_type": "general-purpose",
+            "description": "SDK 原生通用 Agent，可处理不需要特定 ResearchAgent 的任务。",
+            "research_agent_version_id": null
+          }
+        ],
+        "skills": [],
+        "skill_index_path": "/runtime_assets/skills/scientific-agent-platform/skills/SKILLS_INDEX.md",
+        "capability_errors": [
+          {
+            "capability": "hi",
+            "error_code": "hi_runtime_env_unavailable",
+            "error_message": "HI 的地址或访问凭据未就绪，请检查用户权限和平台配置。"
+          },
+          {
+            "capability": "pi",
+            "error_code": "pi_runtime_env_unavailable",
+            "error_message": "PI 的地址或访问凭据未就绪，请检查用户权限和平台配置。"
+          }
+        ],
+        "max_concurrent_subagents": 7
+      },
+      "runtime_type": "claude_code_sdk",
+      "worker_image": "csc-temptest-20261022-worker:candidate",
+      "allowed_tools": [
+        "Read",
+        "Glob",
+        "Grep",
+        "Edit",
+        "Write",
+        "Bash",
+        "Agent",
+        "SendMessage",
+        "Workflow",
+        "mcp__conversation-scheduler__schedule_prompt"
+      ],
+      "collaboration": null,
+      "worker_container_id": "092773f233b9946133a7a4659bfe0483c321b0c6b8e767a61181882d58133bf8",
+      "worker_source_digest": "42ffc55720f468ca",
+      "execution_lock_version": 1
+    }
+  }
+]

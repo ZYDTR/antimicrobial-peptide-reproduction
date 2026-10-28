@@ -1,0 +1,2154 @@
+{
+  "hitCount": 99,
+  "nextCursorMark": "AoIIQJCReig1NjEwMTcyOQ==",
+  "results": [
+    {
+      "id": "42062668",
+      "source": "MED",
+      "pmid": "42062668",
+      "pmcid": "PMC13260041",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13260041"
+        ]
+      },
+      "doi": "10.1007/s10123-026-00836-x",
+      "title": "Genome-guided antimicrobial potential of Bacillus stercoris from coastal sand with activity against multidrug-resistant bacteria, including MRSA.",
+      "authorString": "Valen\u00e7a CAS, Andrade B, Viana M, Barbosa AAT, Dolabella SS, Severino P, M\u00e9nard G, Augagneur Y, Brenig B, Souto EB, Azevedo V, Guedon E, Jain S.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Valen\u00e7a CAS",
+            "lastName": "Valen\u00e7a",
+            "firstName": "Camilla Andrade Silva",
+            "initials": "CAS",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-7433-9467"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Postgraduate Program in Industrial Biotechnology, Tiradentes University, Aracaju, Sergipe, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Andrade B",
+            "lastName": "Andrade",
+            "firstName": "Bruno",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State University of Southwest Bahia, Jequi\u00e9, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Viana M",
+            "lastName": "Viana",
+            "firstName": "Marcus",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Federal University of Minas Gerais, Belo Horizonte, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Barbosa AAT",
+            "lastName": "Barbosa",
+            "firstName": "Ana Andrea Teixeira",
+            "initials": "AAT",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Postgraduate Program in Biology of Infectious and Parasitic Agents, Federal University of Sergipe, S\u00e3o Crist\u00f3v\u00e3o, Sergipe, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Dolabella SS",
+            "lastName": "Dolabella",
+            "firstName": "Silvio Santana",
+            "initials": "SS",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Postgraduate Program in Biology of Infectious and Parasitic Agents, Federal University of Sergipe, S\u00e3o Crist\u00f3v\u00e3o, Sergipe, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Severino P",
+            "lastName": "Severino",
+            "firstName": "Patr\u00edcia",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Postgraduate Program in Industrial Biotechnology, Tiradentes University, Aracaju, Sergipe, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "M\u00e9nard G",
+            "lastName": "M\u00e9nard",
+            "firstName": "Guillaume",
+            "initials": "G",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-0909-4069"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Bacterial Regulatory RNAs and Medicine (BRM) Rennes, Univ de Rennes, INSERM, Rennes, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Augagneur Y",
+            "lastName": "Augagneur",
+            "firstName": "Yoann",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Bacterial Regulatory RNAs and Medicine (BRM) Rennes, Univ de Rennes, INSERM, Rennes, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Brenig B",
+            "lastName": "Brenig",
+            "firstName": "Bertram",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Georg August University G\u00f6ttingen, G\u00f6ttingen, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Souto EB",
+            "lastName": "Souto",
+            "firstName": "Eliana B",
+            "initials": "EB",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-9737-6017"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "UCD School of Chemical and Bioprocess Engineering, University College Dublin, Belfield, Dublin 4, D04 V1W8, Ireland. eliana.souto@ucd.ie."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Azevedo V",
+            "lastName": "Azevedo",
+            "firstName": "Vasco",
+            "initials": "V",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Federal University of Minas Gerais, Belo Horizonte, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Guedon E",
+            "lastName": "Guedon",
+            "firstName": "Eric",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "STLO, INRAE, L'Institut Agro, Rennes, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Jain S",
+            "lastName": "Jain",
+            "firstName": "Sona",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Postgraduate Program in Industrial Biotechnology, Tiradentes University, Aracaju, Sergipe, Brazil. sonajain24@yahoo.com."
+                },
+                {
+                  "affiliation": "Postgraduate Program in Biology of Infectious and Parasitic Agents, Federal University of Sergipe, S\u00e3o Crist\u00f3v\u00e3o, Sergipe, Brazil. sonajain24@yahoo.com."
+                },
+                {
+                  "affiliation": "Postgraduate Program in Biotechnology (RENORBIO), Federal University of Sergipe, S\u00e3o Crist\u00f3v\u00e3o, Sergipe, Brazil. sonajain24@yahoo.com."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-7433-9467"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-9737-6017"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-0909-4069"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "5",
+        "volume": "29",
+        "journalIssueId": 4214887,
+        "dateOfPublication": "2026 Jun",
+        "monthOfPublication": 6,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Int Microbiol",
+          "title": "International microbiology : the official journal of the Spanish Society for Microbiology",
+          "essn": "1618-1905",
+          "issn": "1139-6709",
+          "nlmid": "9816585",
+          "isoabbreviation": "Int Microbiol"
+        },
+        "printPublicationDate": "2026-06-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "713-728",
+      "abstractText": "Coastal beach environments harbor diverse bacterial communities, yet their antimicrobial potential remains largely unexplored. This study evaluates the antimicrobial potential of a bacterial isolate 2AT10 from Brazilian beach sand through in vitro, in silico, and ex vivo assays. Isolate 2AT10, a rod-shaped Gram-positive bacterium, exhibited broad-spectrum antimicrobial activity, with its culture supernatants showing greater efficacy against Gram-positive bacteria, including multidrug-resistant strains such as methicillin-resistant Staphylococcus aureus (MRSA). Antimicrobial activity from two differently processed supernatants decreased after heat treatment, enzymatic digestion, and pH changes, suggesting similar proteolytic profiles. Fourier-transform infrared spectroscopy (FTIR) revealed peaks corresponding to C\u2009=\u2009O and NO\u2082 groups, indicating the presence of amide functional groups. Importantly, the supernatants did not cause irritation in the\u00a0ex vivo chorioallantoic membrane assay. Genomic analysis identified isolate 2AT10 as Bacillus stercoris, harboring genes encoding subtilosin A, bacilysin, bacillibactin, bacillaene and lactococcin-like bacteriocins, all associated with antimicrobial activity. A mutation in the sboA gene, involved in subtilosin A biosynthesis and previously linked to in vitro hemolytic activity and enhanced activity against Gram-positive bacteria, was also detected. Molecular docking and dynamics analyses suggested a possible interaction between lactococcin-like bacteriocin and a membrane component of the S. aureus phosphotransferase system transporter, possibly increasing membrane permeability.",
+      "affiliation": "Postgraduate Program in Industrial Biotechnology, Tiradentes University, Aracaju, Sergipe, Brazil.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "University College Dublin",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Bacillus",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "CL",
+                  "qualifierName": "classification"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "IP",
+                  "qualifierName": "isolation & purification"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "CH",
+                  "qualifierName": "chemistry"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Bacteriocins",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "PD",
+                  "qualifierName": "pharmacology"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Anti-Bacterial Agents",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "PD",
+                  "qualifierName": "pharmacology"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "CH",
+                  "qualifierName": "chemistry"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Microbial Sensitivity Tests"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Drug Resistance, Multiple, Bacterial"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Genome, Bacterial"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Brazil"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Methicillin-Resistant Staphylococcus aureus",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "DE",
+                  "qualifierName": "drug effects"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Molecular Docking Simulation"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Sand",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "MI",
+                  "qualifierName": "microbiology"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Secondary metabolites",
+          "Antimicrobial activity",
+          "In Silico Analysis",
+          "In Vitro Analysis",
+          "Methicillin-resistant\u00a0s.\u00a0aureus\u00a0",
+          "Methicillin-susceptible\u00a0s.\u00a0aureus"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Anti-Bacterial Agents",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Bacteriocins",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Sand",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s10123-026-00836-x"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13260041"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13260041?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasData": "Y",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gca",
+          "uniprot",
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2026-06-12",
+      "dateOfCreation": "2026-04-30",
+      "dateOfRevision": "2026-08-13",
+      "electronicPublicationDate": "2026-05-01",
+      "firstPublicationDate": "2026-05-01",
+      "firstIndexDate": "2026-05-02",
+      "fullTextReceivedDate": "2026-06-13",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "39688419",
+      "source": "MED",
+      "pmid": "39688419",
+      "pmcid": "PMC11796350",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11796350"
+        ]
+      },
+      "doi": "10.1128/mbio.02993-24",
+      "title": "The pneumococcal bacteriocin streptococcin B is produced as part of the early competence cascade and promotes intraspecies competition.",
+      "authorString": "Richardson JD, Guo E, Wyllie RM, Jensen P, Dawid S.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Richardson JD",
+            "lastName": "Richardson",
+            "firstName": "J D",
+            "initials": "JD",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pediatrics, University of Michigan, Ann Arbor, Michigan, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Guo E",
+            "lastName": "Guo",
+            "firstName": "Emily",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pediatrics, University of Michigan, Ann Arbor, Michigan, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wyllie RM",
+            "lastName": "Wyllie",
+            "firstName": "Ryan M",
+            "initials": "RM",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Biomedical Engineering, University of Michigan, Ann Arbor, Michigan, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Jensen P",
+            "lastName": "Jensen",
+            "firstName": "Paul",
+            "initials": "P",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1257-9836"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Biomedical Engineering, University of Michigan, Ann Arbor, Michigan, USA."
+                },
+                {
+                  "affiliation": "Department of Chemical Engineering, University of Michigan, Ann Arbor, Michigan, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Dawid S",
+            "lastName": "Dawid",
+            "firstName": "Suzanne",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-8921-0386"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pediatrics, University of Michigan, Ann Arbor, Michigan, USA."
+                },
+                {
+                  "affiliation": "Department of Microbiology and Immunology, University of Michigan, Ann Arbor, Michigan, USA."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-8921-0386"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1257-9836"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "2",
+        "volume": "16",
+        "journalIssueId": 3897315,
+        "dateOfPublication": "2025 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2025,
+        "journal": {
+          "medlineAbbreviation": "mBio",
+          "title": "mBio",
+          "essn": "2150-7511",
+          "issn": "2150-7511",
+          "nlmid": "101519231",
+          "isoabbreviation": "mBio"
+        },
+        "printPublicationDate": "2025-02-01"
+      },
+      "pubYear": "2025",
+      "pageInfo": "e0299324",
+      "abstractText": "<i>Streptococcus pneumoniae</i> is an important human pathogen that normally resides in the human nasopharynx. Competence-mediated bacteriocin expression by <i>S. pneumoniae</i> plays a major role in both the establishment and persistence of colonization on this polymicrobial surface. Over 20 distinct bacteriocin loci have been identified in pneumococcal genomes, but only a small number have been characterized phenotypically. In this work, we demonstrate that three-fourths of <i>S. pneumoniae</i> strains contain a highly conserved <i>scb</i> locus that encodes an active lactococcin 972-like bacteriocin called streptococcin B. In these backgrounds, the <i>scbABC</i> locus is part of the early competence cascade due to a ComE binding site in the promoter region. Streptococcin B producing strains target both members of the population that have failed to activate competence and the 25% of the population that carry a naturally occurring deletion of the ComE binding site and the functional bacteriocin gene. The ComR-type regulator found directly upstream of the <i>scb</i> locus in <i>S. pneumoniae</i> strains can activate <i>scb</i> expression independent of the presence of the ComE binding site but only when stimulated by a peptide that is encoded in the <i>scb</i> locus of <i>Streptococcus pseudopneumoniae</i>, a closely related bacterium that also inhabits the human nasopharynx. Given the co-regulation with competence and the phenotypic confirmation of activity, streptococcin B represents a previously unrecognized fratricide effector that gives producing strains an additional advantage over the naturally occurring deleted strains during colonization.<h4>Importance</h4><i>Streptococcus pneumoniae</i> is a common cause of pneumonia, meningitis, sinusitis, and otitis media. In order to successfully colonize humans, a prerequisite to the development of invasive disease, <i>S. pneumoniae</i> must compete with other bacterial inhabitants of the nasal surface for space and nutrients. Bacteriocins are small antimicrobial peptides produced by bacteria that typically target neighboring bacteria by disruption of the cell surface. <i>S. pnuemoniae</i> encodes a large number of potential bacteriocin, but, for most, their role in competitive interactions has not been defined. This work demonstrates that isolates that produce the bacteriocin streptococcin B have an advantage over non-producers. These observations contribute to our understanding of the competitive interactions that precede the development of <i>S. pneumoniae</i> disease.",
+      "affiliation": "Department of Pediatrics, University of Michigan, Ann Arbor, Michigan, USA.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "pandemic recovery fund",
+            "orderIn": 0
+          },
+          {
+            "agency": "HHS | NIH | National Institute of General Medical Sciences",
+            "grantId": "GM138210",
+            "orderIn": 0
+          },
+          {
+            "agency": "HHS | NIH | National Institute of General Medical Sciences (NIGMS)",
+            "grantId": "GM138210",
+            "orderIn": 0
+          },
+          {
+            "agency": "NIGMS NIH HHS",
+            "acronym": "GM",
+            "grantId": "R35 GM138210",
+            "orderIn": 0
+          },
+          {
+            "agency": "Andrew B Briskin Research Professorship",
+            "orderIn": 0
+          },
+          {
+            "agency": "UM-SMART",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Streptococcus pneumoniae",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "PH",
+                  "qualifierName": "physiology"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Bacterial Proteins",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Bacteriocins",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "BI",
+                  "qualifierName": "biosynthesis"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Gene Expression Regulation, Bacterial"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Promoter Regions, Genetic"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Microbial Interactions"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Streptococcus pneumoniae",
+          "Quorum sensing",
+          "Bacteriocins",
+          "Genetic Competence",
+          "Interbacterial Competition"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Bacteriocins",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Bacterial Proteins",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1128/mbio.02993-24"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11796350"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11796350?pdf=render"
+          }
+        ]
+      },
+      "commentCorrectionList": {
+        "commentCorrection": [
+          {
+            "source": "PPR",
+            "id": "PPR918966",
+            "type": "Preprint in",
+            "note": "CrossRef Pre-print loader",
+            "orderIn": 10002
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 4,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasData": "Y",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2025-04-27",
+      "dateOfCreation": "2024-12-17",
+      "dateOfRevision": "2026-06-29",
+      "electronicPublicationDate": "2024-12-17",
+      "firstPublicationDate": "2024-12-17",
+      "firstIndexDate": "2024-12-17",
+      "fullTextReceivedDate": "2025-12-02",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "38849728",
+      "source": "MED",
+      "pmid": "38849728",
+      "pmcid": "PMC11161930",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11161930"
+        ]
+      },
+      "doi": "10.1186/s12864-024-10490-0",
+      "title": "Genomic exploration of the fermented meat isolate Staphylococcus shinii IMDO-S216 with a focus on competitiveness-enhancing secondary metabolites.",
+      "authorString": "Sosa-Fajardo A, D\u00edaz-Mu\u00f1oz C, Van der Veken D, Pradal I, Verce M, Weckx S, Leroy F.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Sosa-Fajardo A",
+            "lastName": "Sosa-Fajardo",
+            "firstName": "Ana",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-4827-6087"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Research Group of Industrial Microbiology and Food Biotechnology (IMDO), Faculty of Sciences and Bioengineering Sciences, Vrije Universiteit Brussel, Brussels, Belgium."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "D\u00edaz-Mu\u00f1oz C",
+            "lastName": "D\u00edaz-Mu\u00f1oz",
+            "firstName": "Cristian",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1593-2885"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Research Group of Industrial Microbiology and Food Biotechnology (IMDO), Faculty of Sciences and Bioengineering Sciences, Vrije Universiteit Brussel, Brussels, Belgium."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Van der Veken D",
+            "lastName": "Van der Veken",
+            "firstName": "David",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Research Group of Industrial Microbiology and Food Biotechnology (IMDO), Faculty of Sciences and Bioengineering Sciences, Vrije Universiteit Brussel, Brussels, Belgium."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Pradal I",
+            "lastName": "Pradal",
+            "firstName": "In\u00e9s",
+            "initials": "I",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-4949-262X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Research Group of Industrial Microbiology and Food Biotechnology (IMDO), Faculty of Sciences and Bioengineering Sciences, Vrije Universiteit Brussel, Brussels, Belgium."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Verce M",
+            "lastName": "Verce",
+            "firstName": "Marko",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-2789-756X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Research Group of Industrial Microbiology and Food Biotechnology (IMDO), Faculty of Sciences and Bioengineering Sciences, Vrije Universiteit Brussel, Brussels, Belgium."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Weckx S",
+            "lastName": "Weckx",
+            "firstName": "Stefan",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1380-8610"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Research Group of Industrial Microbiology and Food Biotechnology (IMDO), Faculty of Sciences and Bioengineering Sciences, Vrije Universiteit Brussel, Brussels, Belgium."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Leroy F",
+            "lastName": "Leroy",
+            "firstName": "Fr\u00e9d\u00e9ric",
+            "initials": "F",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-8682-9626"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Research Group of Industrial Microbiology and Food Biotechnology (IMDO), Faculty of Sciences and Bioengineering Sciences, Vrije Universiteit Brussel, Brussels, Belgium. frederic.leroy@vub.be."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-8682-9626"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1380-8610"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1593-2885"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-4827-6087"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-4949-262X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-2789-756X"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "25",
+        "journalIssueId": 3778111,
+        "dateOfPublication": "2024 Jun",
+        "monthOfPublication": 6,
+        "yearOfPublication": 2024,
+        "journal": {
+          "medlineAbbreviation": "BMC Genomics",
+          "title": "BMC genomics",
+          "essn": "1471-2164",
+          "issn": "1471-2164",
+          "nlmid": "100965258",
+          "isoabbreviation": "BMC Genomics"
+        },
+        "printPublicationDate": "2024-06-01"
+      },
+      "pubYear": "2024",
+      "pageInfo": "575",
+      "abstractText": "<h4>Background</h4>Staphylococcus shinii appears as an umbrella species encompassing several strains of Staphylococcus pseudoxylosus and Staphylococcus xylosus. Given its phylogenetic closeness to S. xylosus, S. shinii can be found in similar ecological niches, including the microbiota of fermented meats where the species may contribute to colour and flavour development. In addition to these conventional functionalities, a biopreservation potential based on the production of antagonistic compounds may be available. Such potential, however, remains largely unexplored in contrast to the large body of research that is available on the biopreservative properties of lactic acid bacteria. The present study outlines the exploration of the genetic basis of competitiveness and antimicrobial activity of a fermented meat isolate, S. shinii IMDO-S216. To this end, its genome was sequenced, de novo assembled, and annotated.<h4>Results</h4>The genome contained a single circular chromosome and eight plasmid replicons. Focus of the genomic exploration was on secondary metabolite biosynthetic gene clusters coding for ribosomally synthesized and posttranslationally modified peptides. One complete cluster was coding for a bacteriocin, namely lactococcin 972; the genes coding for the pre-bacteriocin, the ATP-binding cassette transporter, and the immunity protein were also identified. Five other complete clusters were identified, possibly functioning as competitiveness factors. These clusters were found to be involved in various responses such as membrane fluidity, iron intake from the medium, a quorum sensing system, and decreased sensitivity to antimicrobial peptides and competing microorganisms. The presence of these clusters was equally studied among a selection of multiple Staphylococcus species to assess their prevalence in closely-related organisms.<h4>Conclusions</h4>Such factors possibly translate in an improved adaptation and competitiveness of S. shinii IMDO-S216 which are, in turn, likely to improve its fitness in a fermented meat matrix.",
+      "affiliation": "Research Group of Industrial Microbiology and Food Biotechnology (IMDO), Faculty of Sciences and Bioengineering Sciences, Vrije Universiteit Brussel, Brussels, Belgium.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "Fonds Wetenschappelijk Onderzoek",
+            "grantId": "G021518N",
+            "orderIn": 0
+          },
+          {
+            "agency": "Vrije Universiteit Brussel",
+            "grantId": "SRP7",
+            "orderIn": 0
+          },
+          {
+            "agency": "Herculesstichting",
+            "grantId": "UABR 09/004",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Staphylococcus",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Bacteriocins",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Genomics",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "MT",
+                  "qualifierName": "methods"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Phylogeny"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Fermentation"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Genome, Bacterial"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Multigene Family"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Meat",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "MI",
+                  "qualifierName": "microbiology"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Secondary Metabolism",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Bacteriocin",
+          "Genome annotation",
+          "Genomics",
+          "Starter Culture",
+          "Meat Fermentation",
+          "Competitiveness Factors",
+          "Lactococcin 972",
+          "Staphylococcus Shinii"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Bacteriocins",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s12864-024-10490-0"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11161930"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11161930?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 5,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasData": "Y",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "refseq",
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2024-06-08",
+      "dateOfCreation": "2024-06-07",
+      "dateOfRevision": "2024-06-10",
+      "electronicPublicationDate": "2024-06-07",
+      "firstPublicationDate": "2024-06-07",
+      "firstIndexDate": "2024-06-09",
+      "fullTextReceivedDate": "2025-11-28",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "39984510",
+      "source": "MED",
+      "pmid": "39984510",
+      "pmcid": "PMC11845615",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11845615"
+        ]
+      },
+      "doi": "10.1038/s41598-025-89450-x",
+      "title": "Leuconostoc lactis strain APC 3969 produces a new variant of cyclic bacteriocin leucocyclicin Q and displays potent anti-Clostridium perfringens activity.",
+      "authorString": "de Farias FM, Soria MC, O'Connor PM, Huang X, Buttimer C, Kamilari E, Deliephan A, Hill D, Fursenko O, Wiese J, Draper L, Stanton C, Hill C, Ross RP.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "de Farias FM",
+            "lastName": "de Farias",
+            "firstName": "Felipe Miceli",
+            "initials": "FM",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "APC Microbiome Ireland, University College Cork, Cork, T12 YT20, Ireland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Soria MC",
+            "lastName": "Soria",
+            "firstName": "Maria Cecilia",
+            "initials": "MC",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "APC Microbiome Ireland, University College Cork, Cork, T12 YT20, Ireland."
+                },
+                {
+                  "affiliation": "Teagasc Food Research Centre, Moorepark, Fermoy, Co, Cork, P61 C996, Ireland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "O'Connor PM",
+            "lastName": "O'Connor",
+            "firstName": "Paula M",
+            "initials": "PM",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "APC Microbiome Ireland, University College Cork, Cork, T12 YT20, Ireland."
+                },
+                {
+                  "affiliation": "Teagasc Food Research Centre, Moorepark, Fermoy, Co, Cork, P61 C996, Ireland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Huang X",
+            "lastName": "Huang",
+            "firstName": "Xiaohui",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "APC Microbiome Ireland, University College Cork, Cork, T12 YT20, Ireland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Buttimer C",
+            "lastName": "Buttimer",
+            "firstName": "Colin",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-3361-8902"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "APC Microbiome Ireland, University College Cork, Cork, T12 YT20, Ireland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kamilari E",
+            "lastName": "Kamilari",
+            "firstName": "Eleni",
+            "initials": "E",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2473-9729"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "APC Microbiome Ireland, University College Cork, Cork, T12 YT20, Ireland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Deliephan A",
+            "lastName": "Deliephan",
+            "firstName": "Aiswariya",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The Kraft Heinz Company, Chicago, IL, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hill D",
+            "lastName": "Hill",
+            "firstName": "Daragh",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The Kraft Heinz Company, Chicago, IL, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Fursenko O",
+            "lastName": "Fursenko",
+            "firstName": "Oxana",
+            "initials": "O",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The Kraft Heinz Company, Chicago, IL, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wiese J",
+            "lastName": "Wiese",
+            "firstName": "Jonathan",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The Kraft Heinz Company, Chicago, IL, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Draper L",
+            "lastName": "Draper",
+            "firstName": "Lorraine",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "APC Microbiome Ireland, University College Cork, Cork, T12 YT20, Ireland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Stanton C",
+            "lastName": "Stanton",
+            "firstName": "Catherine",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-6724-7011"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "APC Microbiome Ireland, University College Cork, Cork, T12 YT20, Ireland."
+                },
+                {
+                  "affiliation": "Teagasc Food Research Centre, Moorepark, Fermoy, Co, Cork, P61 C996, Ireland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hill C",
+            "lastName": "Hill",
+            "firstName": "Colin",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "APC Microbiome Ireland, University College Cork, Cork, T12 YT20, Ireland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ross RP",
+            "lastName": "Ross",
+            "firstName": "R Paul",
+            "initials": "RP",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-4876-8839"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "APC Microbiome Ireland, University College Cork, Cork, T12 YT20, Ireland. p.ross@ucc.ie."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-5419-9922"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2473-9729"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-3361-8902"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-6724-7011"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8527-1445"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-4876-8839"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data",
+          "related_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "15",
+        "journalIssueId": 3893908,
+        "dateOfPublication": "2025 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2025,
+        "journal": {
+          "medlineAbbreviation": "Sci Rep",
+          "title": "Scientific reports",
+          "essn": "2045-2322",
+          "issn": "2045-2322",
+          "nlmid": "101563288",
+          "isoabbreviation": "Sci Rep"
+        },
+        "printPublicationDate": "2025-02-01"
+      },
+      "pubYear": "2025",
+      "pageInfo": "6372",
+      "abstractText": "Clostridium perfringens is an important foodborne pathogen that produces diverse toxins and is often associated with foodborne gastroenteritis. In this sense, novel biopreservatives with anti-C. perfringens activity are of interest. Among them, bacteriocins produced by lactic acid bacteria stand out as potential candidates. This study describes leucocyclicin C, a novel variant of the bacteriocin leucocyclicin Q, capable of inhibiting C. perfringens. The bacteriocin comprises 61 amino acids, has a molecular mass of 6,081.44\u00a0Da, and is produced by the strain Leuconostoc lactis APC 3969. Like many circular bacteriocins, leucocyclicin C has a broad spectrum of activity, is protease resistant, and has high stability against thermic and pH stresses. The leucocyclicin C genetic cluster comprises ten genes instead of the five genes previously described for leucocyclicin Q. Also, this genetic cluster seems to be part of a putative composite transposon. Leucocyclicin C has a minimum inhibitory concentration (MIC) of 3.288\u00a0\u00b5M against C. perfringens, comparable with other antimicrobial peptides. These results suggest that leucocyclicin C has the potential as a biopreservative for controlling C. perfringens in food.",
+      "affiliation": "APC Microbiome Ireland, University College Cork, Cork, T12 YT20, Ireland.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "European Union's Horizon 2020 Research and Innovation Programme under the INSPIRE COFUND Marie Sk\u0142odowska-Curie",
+            "grantId": "101034270",
+            "orderIn": 0
+          },
+          {
+            "agency": "Science Foundation Ireland (SFI)",
+            "grantId": "SFI/ 12/RC/2273_P2",
+            "orderIn": 0
+          },
+          {
+            "agency": "European Union (ERC, BACtheWINNER)",
+            "grantId": "101054719",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Clostridium perfringens",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "DE",
+                  "qualifierName": "drug effects"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Leuconostoc",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Bacteriocins",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "BI",
+                  "qualifierName": "biosynthesis"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "PD",
+                  "qualifierName": "pharmacology"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "CH",
+                  "qualifierName": "chemistry"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Anti-Bacterial Agents",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "PD",
+                  "qualifierName": "pharmacology"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "CH",
+                  "qualifierName": "chemistry"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Microbial Sensitivity Tests"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Multigene Family"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Clostridium perfringens",
+          "Variant",
+          "Circular Bacteriocin",
+          "Leuconostoc Lactis",
+          "Leucocyclicin C"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Anti-Bacterial Agents",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Bacteriocins",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "Unpaywall",
+            "url": "https://doi.org/10.1038/s41598-025-89450-x"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41598-025-89450-x"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11845615"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11845615?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 4,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "Y",
+      "dbCrossReferenceList": {
+        "dbName": [
+          "EMBL"
+        ]
+      },
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasData": "Y",
+      "license": "cc by-nc-nd",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2025-05-09",
+      "dateOfCreation": "2025-02-21",
+      "dateOfRevision": "2025-05-09",
+      "electronicPublicationDate": "2025-02-21",
+      "firstPublicationDate": "2025-02-21",
+      "firstIndexDate": "2025-02-23",
+      "fullTextReceivedDate": "2025-11-29",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "42565612",
+      "source": "MED",
+      "pmid": "42565612",
+      "pmcid": "PMC13556254",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13556254"
+        ]
+      },
+      "doi": "10.1128/mbio.01596-26",
+      "title": "Rgg&lt;sub&gt;144&lt;/sub&gt;/SHP&lt;sub&gt;144&lt;/sub&gt;-controlled streptolancidin D mediates intra-species competition in &lt;i&gt;Streptococcus pneumoniae&lt;/i&gt; with cumulative effect from other bacteriocins and fratricide.",
+      "authorString": "Valente C, Dias S, Gazioglu O, Cruz AR, Henriques AO, Yesilkaya H, Hiller NL, S\u00e1-Le\u00e3o R.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Valente C",
+            "lastName": "Valente",
+            "firstName": "Carina",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-1864-6080"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratory of Molecular Microbiology of Human Pathogens, Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa, Oeiras, Portugal."
+                },
+                {
+                  "affiliation": "Polytechnic University of Castelo Branco, Castelo Branco, Portugal."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Dias S",
+            "lastName": "Dias",
+            "firstName": "Sofia",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratory of Molecular Microbiology of Human Pathogens, Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa, Oeiras, Portugal."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gazioglu O",
+            "lastName": "Gazioglu",
+            "firstName": "Ozcan",
+            "initials": "O",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Microbiology and Infection, School of Biological and Biomedical Sciences, University of Leicester, Leicester, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cruz AR",
+            "lastName": "Cruz",
+            "firstName": "Ana R",
+            "initials": "AR",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratory of Molecular Microbiology of Human Pathogens, Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa, Oeiras, Portugal."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Henriques AO",
+            "lastName": "Henriques",
+            "firstName": "Adriano O",
+            "initials": "AO",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-4292-4802"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratory of Microbial Development, Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa, Oeiras, Portugal."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yesilkaya H",
+            "lastName": "Yesilkaya",
+            "firstName": "Hasan",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Microbiology and Infection, School of Biological and Biomedical Sciences, University of Leicester, Leicester, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hiller NL",
+            "lastName": "Hiller",
+            "firstName": "N Luisa",
+            "initials": "NL",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-6572-1368"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Biological Sciences, Carnegie Mellon University, Pittsburgh, Pennsylvania, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "S\u00e1-Le\u00e3o R",
+            "lastName": "S\u00e1-Le\u00e3o",
+            "firstName": "Raquel",
+            "initials": "R",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9804-827X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratory of Molecular Microbiology of Human Pathogens, Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa, Oeiras, Portugal."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-6572-1368"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9804-827X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-1864-6080"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-4292-4802"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "9",
+        "volume": "17",
+        "journalIssueId": 4259917,
+        "dateOfPublication": "2026 Sep",
+        "monthOfPublication": 9,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "mBio",
+          "title": "mBio",
+          "essn": "2150-7511",
+          "issn": "2150-7511",
+          "nlmid": "101519231",
+          "isoabbreviation": "mBio"
+        },
+        "printPublicationDate": "2026-09-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "e0159626",
+      "abstractText": "<i>Streptococcus pneumoniae</i> is a major colonizer of the human nasopharynx, where inter- and intra-strain competition plays a critical role in shaping population structure and influencing vaccine outcomes. Bacteriocins are key mediators of intra-species competition, yet many of their functions and regulatory mechanisms remain poorly understood. Here, we identify and characterize streptolancidin D, a previously uncharacterized bacteriocin encoded by the <i>sldA-T</i> locus, and demonstrate its contribution to pneumococcal competition. Using isogenic streptolancidin-producing and non-producing variants of a naturally colonizing strain, we show that <i>sldA-T</i> contributes to the inhibition of competitor strains in <i>in vitro</i> biofilms and during murine co-colonization. Importantly, streptolancidin D also inhibited <i>in vitro</i> a subset of genetically diverse pneumococcal isolates representing multiple serotypes, whereas non-producing variants showed no activity. This indicates that its effect is broad and not restricted to isogenic interactions. Genomic analysis of over 7,500 pneumococcal genomes revealed that <i>sldA-T</i> is present in ~12% of isolates, with lineage-associated distribution patterns, and is consistently encoded downstream of the Rgg<sub>144</sub>/SHP<sub>144</sub> quorum sensing system. We further demonstrate that <i>sldA-T</i> is regulated by this system, with <i>sldA-T</i> promoter activity abolished in a SHP-deficient background and partially restored by exogenous peptide stimulation. Finally, we show that streptolancidin D acts in concert with other bacteriocin systems and competence-mediated fratricide, highlighting a multifactorial antimicrobial strategy that enhances pneumococcal competitiveness. Overall, our findings identify a quorum sensing-regulated bacteriocin that contributes to pneumococcal competition and helps shape population dynamics.<h4>Importance</h4>Bacteriocins are central to bacterial competition and niche occupation, particularly in structured environments like the human nasopharynx. While several pneumococcal bacteriocins have been characterized, the functions of many remain unknown, limiting our understanding of how these systems shape strain fitness and population dynamics. We characterize streptolancidin D, a bacteriocin that enhances intraspecies competitiveness <i>in vitro</i> and <i>in vivo</i> and contributes to the inhibition of genetically diverse pneumococcal strains. We demonstrate that its expression is tightly regulated by the conserved Rgg<sub>144</sub>/SHP<sub>144</sub> quorum sensing system and that the locus is distributed and shows synteny across multiple pneumococcal lineages. Our findings reveal that streptolancidin D operates within a broader network of bacteriocins and competence-associated mechanisms that collectively shape competitive interactions. By integrating genomic, functional, and regulatory analyses, this work expands the known repertoire of pneumococcal antimicrobial systems and provides new insights into the mechanisms underpinning competition and population structure in <i>S. pneumoniae</i>.",
+      "affiliation": "Laboratory of Molecular Microbiology of Human Pathogens, Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa, Oeiras, Portugal.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Animals"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Mice"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Biofilms",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "DE",
+                  "qualifierName": "drug effects"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "GD",
+                  "qualifierName": "growth & development"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Streptococcus pneumoniae",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "DE",
+                  "qualifierName": "drug effects"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "GD",
+                  "qualifierName": "growth & development"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "PH",
+                  "qualifierName": "physiology"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Pneumococcal Infections",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "MI",
+                  "qualifierName": "microbiology"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Bacterial Proteins",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Bacteriocins",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "PD",
+                  "qualifierName": "pharmacology"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Antibiosis"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Gene Expression Regulation, Bacterial"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Microbial Interactions"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Streptococcus pneumoniae",
+          "Bacteriocins",
+          "Intra-species Competition",
+          "Streptolancidin D, Rgg144/shp144"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Bacteriocins",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Bacterial Proteins",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1128/mbio.01596-26"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13556254"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13556254?pdf=render"
+          }
+        ]
+      },
+      "commentCorrectionList": {
+        "commentCorrection": [
+          {
+            "source": "PPR",
+            "id": "PPR1093046",
+            "type": "Preprint in",
+            "note": "Link created based on a title-first author match",
+            "orderIn": 10002
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasData": "Y",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2026-09-09",
+      "dateOfCreation": "2026-08-07",
+      "dateOfRevision": "2026-09-11",
+      "electronicPublicationDate": "2026-08-07",
+      "firstPublicationDate": "2026-08-07",
+      "firstIndexDate": "2026-08-07",
+      "fullTextReceivedDate": "2026-09-13",
+      "hasEvaluations": "N"
+    }
+  ]
+}

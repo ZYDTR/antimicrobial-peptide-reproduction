@@ -1,0 +1,4 @@
+interface:
+  display_name: "Structure evidence"
+  short_description: "Inspect structure confidence and Foldseek results"
+  default_prompt: "Use $structure for the active case in this project; read AGENTS.md first."

@@ -1,0 +1,1 @@
+{"agentType":"workflow-subagent","description":"audit:literature_and_final_claims","workflowPhase":"Adversarial Audit","spawnDepth":1,"requestShape":"foreground","requestNonInteractive":true}

@@ -1,0 +1,4 @@
+comparison	description	candidate_len	target_len	tm_score_norm_candidate	tm_score_norm_2lgn	rmsd_angstrom
+full_length_vs_2lgn	Candidate full length (1-97) vs 2LGN (1-66)	97	66	0.547	0.7664	1.372
+mature_chain_vs_2lgn	Candidate predicted mature chain (29-97) vs 2LGN (1-66)	69	66	0.7381	0.7664	1.372
+foldseek_core_vs_2lgn_core	Candidate Foldseek core alignment (40-97) vs 2LGN core (4-66)	58	63	0.8122	0.7586	1.365

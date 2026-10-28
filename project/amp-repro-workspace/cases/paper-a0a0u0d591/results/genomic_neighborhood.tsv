@@ -1,0 +1,12 @@
+offset	locus_tag	protein_id	gene	start	end	strand	length_aa	gap_from_prev_bp	relation_to_target	product
+-5	D6867_00570	RJY15076.1		41621	42253	-	210	238	downstream (offset -5)	ABC transporter ATP-binding protein
+-4	D6867_00575	RJY15077.1		42255	44270	-	671	1	downstream (offset -4)	bacteriocin-associated integral membrane family protein
+-3	D6867_00580	RJY15078.1		44373	44669	-	98	102	downstream (offset -3)	lactococcin 972 family bacteriocin
+-2	D6867_00585	RJY15079.1		45285	45926	-	213	615	downstream (offset -2)	ABC transporter ATP-binding protein
+-1	D6867_00590	RJY15080.1		45931	48132	-	733	4	downstream (offset -1)	ABC transporter permease
++0	D6867_00595	RJY15081.1		48139	48432	-	97	6	TARGET	hypothetical protein
++1	D6867_00600	RJY15082.1		48597	48767	-	56	164	upstream (offset +1)	hypothetical protein
++2	D6867_00605	RJY15083.1		48950	49813	+	287	182	upstream (offset +2)	XRE family transcriptional regulator
++3	D6867_00610	RJY15084.1		50245	51453	-	402	431	upstream (offset +3)	ATP-binding protein
++4	D6867_00615	RJY15085.1		51858	52034	+	58	404	upstream (offset +4)	hypothetical protein
++5	D6867_00620			52034	52239	+	0	-1	upstream (offset +5)	cell filamentation protein

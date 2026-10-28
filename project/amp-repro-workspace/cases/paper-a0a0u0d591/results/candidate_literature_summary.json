@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "accession": "A0A0U0D591",
+  "created_at_utc": "2026-10-27T06:59:39.891979+00:00",
+  "evidence_categories": {
+    "direct_candidate_literature": "None found (0 hits in PubMed & Europe PMC); completely uncharacterized in wet-lab literature",
+    "strain_wgs_context": "PMID: 30824850 / PMCID: PMC6397248 (Nature Sci Rep 2019, Tavares & Handem et al.); sequenced S. pseudopneumoniae Spain2270 deposited to BioProject PRJNA434586",
+    "structural_homolog_mechanism": "PMID: 21818877, PMID: 18539790, PDB: 2LGN; established Lactococcin 972 as a non-pore-forming Lipid-II-binding bacteriocin inhibiting septum formation",
+    "operon_and_immunity": "PMID: 24886591; established Lcn972-family bacteriocins require co-transcribed immunity/transporter operons"
+  },
+  "records_count": 6
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "pmid": "24886591",
+    "title": "A bacteriocin gene cluster able to enhance plasmid maintenance in Lactococcus lactis.",
+    "authors": [
+      "Campelo AB",
+      "Roces C",
+      "Mohedano ML",
+      "L\u00f3pez P",
+      "Rodr\u00edguez A",
+      "Mart\u00ednez B"
+    ],
+    "journal": "Microbial cell factories",
+    "pubdate": "2014 May 28",
+    "doi": "10.1186/1475-2859-13-77",
+    "abstract": "BACKGROUND: Lactococcus lactis is widely used as a dairy starter and has been extensively studied. Based on the acquired knowledge on its physiology and metabolism, new applications have been envisaged and there is an increasing interest of using L. lactis as a cell factory. Plasmids constitute the main toolbox for L. lactis genetic engineering and most rely on antibiotic resistant markers for plasmid selection and maintenance. In this work, we have assessed the ability of the bacteriocin Lactococcin 972 (Lcn972) gene cluster to behave as a food-grade post-segregational killing system to stabilize recombinant plasmids in L. lactis in the absence of antibiotics. Lcn972 is a non-lantibiotic bacteriocin encoded by the 11-kbp plasmid pBL1 with a potent antimicrobial activity against Lactococcus.\nRESULTS: Attempts to clone the full lcn972 operon with its own promoter (P972), the structural gene lcn972 and the immunity genes orf2-orf3 in the unstable plasmid pIL252 failed and only plasmids with a mutated promoter were recovered. Alternatively, cloning under other constitutive promoters was approached and achieved, but bacteriocin production levels were lower than those provided by pBL1. Segregational stability studies revealed that the recombinant plasmids that yielded high bacteriocin titers were maintained for at least 200 generations without antibiotic selection. In the case of expression vectors such as pTRL1, the Lcn972 gene cluster also contributed to plasmid maintenance without compromising the production of the fluorescent mCherry protein. Furthermore, unstable Lcn972 recombinant plasmids became integrated into the chromosome through the activity of insertion sequences, supporting the notion that Lcn972 does apply a strong selective pressure against susceptible cells. Despite of it, the Lcn972 gene cluster was not enough to avoid the use of antibiotics to select plasmid-bearing cells right after transformation.\nCONCLUSIONS: Inserting the Lcn972 cluster into segregational unstable plasmids prevents their lost by segregation and probable could be applied as an alternative to the use of antibiotics to support safer and more sustainable biotechnological applications of genetically engineered L. lactis."
+  },
+  {
+    "pmid": "18539790",
+    "title": "Specific interaction of the unmodified bacteriocin Lactococcin 972 with the cell wall precursor lipid II.",
+    "authors": [
+      "Mart\u00ednez B",
+      "B\u00f6ttiger T",
+      "Schneider T",
+      "Rodr\u00edguez A",
+      "Sahl HG",
+      "Wiedemann I"
+    ],
+    "journal": "Applied and environmental microbiology",
+    "pubdate": "2008 Aug",
+    "doi": "10.1128/AEM.00092-08",
+    "abstract": "Lactococcin 972 (Lcn972) is a nonlantibiotic bacteriocin that inhibits septum biosynthesis in Lactococcus lactis rather than forming pores in the cytoplasmic membrane. In this study, a deeper analysis of the molecular basis of the mode of action of Lcn972 was performed. Of several lipid cell wall precursors, only lipid II antagonized Lcn972 inhibitory activity in vivo. Likewise, Lcn972 only coprecipitated with lipid II micelles. This bacteriocin inhibited the in vitro polymerization of lipid II by the recombinant S. aureus PBP2 and the addition to lipid II of the first glycine catalyzed by FemX. These experiments demonstrate that Lcn972 specifically interacts with lipid II, the substrate of both enzymes. In the presence of Lcn972, nisin pore formation was partially hindered in whole cells. However, binding of Lcn972 to lipid II could not compete with nisin in lipid II-doped 1,2-dioleoyl-sn-glycero-3-phosphocholine (DOPC) liposomes, possibly indicating a distinct binding site. The existence of a putative cotarget for Lcn972 activity is discussed in the context of its narrow inhibitory spectrum and the localized action at the division septum. To our knowledge, this is the first unmodified bacteriocin that binds to the cell wall precursor lipid II."
+  },
+  {
+    "pmid": "12682305",
+    "title": "DHEA for Alzheimer's disease: a modest showing by a superhormone.",
+    "authors": [
+      "Knopman D",
+      "Henderson VW"
+    ],
+    "journal": "Neurology",
+    "pubdate": "2003 Apr 08",
+    "doi": null,
+    "abstract": null
+  },
+  {
+    "pmid": "22504807",
+    "title": "Isolation of Lactococcus lactis mutants simultaneously resistant to the cell wall-active bacteriocin Lcn972, lysozyme, nisin, and bacteriophage c2.",
+    "authors": [
+      "Roces C",
+      "Courtin P",
+      "Kulakauskas S",
+      "Rodr\u00edguez A",
+      "Chapot-Chartier MP",
+      "Mart\u00ednez B"
+    ],
+    "journal": "Applied and environmental microbiology",
+    "pubdate": "2012 Jun",
+    "doi": "10.1128/AEM.00795-12",
+    "abstract": "Lactococcin 972 (Lcn972) is a nonlantibiotic bacteriocin that inhibits cell wall biosynthesis by binding to lipid II. In this work, two mutants resistant to Lcn972, Lactococcus lactis D1 and D1-20, with high (>320 arbitrary units [AU]/ml) and low (80 AU/ml) susceptibilities, respectively, have been isolated. Resistance to Lcn972 did not impose a burden to growth under laboratory conditions, nor did it substantially alter the physicochemical properties of the cell surface. However, the peptidoglycan of the mutants featured a higher content of muropeptides with tripeptide side chains than the wild-type strain, linking for the first time peptidoglycan remodelling to bacteriocin resistance. Moreover, L. lactis lacking a functional D,D-carboxypeptidase DacA (i.e., with a high content of pentapeptide side chain muropeptides) was shown to be more susceptible to Lcn972. Cross-resistance to lysozyme and nisin and enhanced susceptibility to penicillin G and bacitracin was also observed. Intriguingly, the Lcn972-resistant mutants were not infected by the lytic phage c2 and less efficiently infected by phage sk1. Lack of c2 infectivity was linked to a 22.6-kbp chromosomal deletion encompassing the phage receptor protein gene pip. The deletion also included maltose metabolic genes and the two-component system (TCS) F. However, a clear correlation between these genes and resistance to Lcn972 could not be clearly established, pointing to the presence of as-yet-unidentified mutations that account for Lcn972 resistance."
+  },
+  {
+    "pmid": "22890757",
+    "title": "The putative lactococcal extracytoplasmic function anti-sigma factor llmg2447 determines resistance to the cell wall-active bacteriocin lcn972.",
+    "authors": [
+      "Roces C",
+      "P\u00e9rez V",
+      "Campelo AB",
+      "Blanco D",
+      "Kok J",
+      "Kuipers OP",
+      "Rodr\u00edguez A",
+      "Mart\u00ednez B"
+    ],
+    "journal": "Antimicrobial agents and chemotherapy",
+    "pubdate": "2012 Nov",
+    "doi": "10.1128/AAC.01206-12",
+    "abstract": "Lactococcin 972 (Lcn972) is a cell wall-active bacteriocin that inhibits cell wall biosynthesis in Lactococcus lactis. In this work, the transcriptomes of the Lcn972-resistant (Lcn(r)) mutant L. lactis D1 and its parent strain were compared to identify factors involved in Lcn972 resistance. Upregulated genes included members of the cell envelope stress (CesSR) regulon, the penicillin-binding protein pbpX gene and gene llmg2447, which may encode a putative extracytoplasmic function (ECF) anti-sigma factor. The gene llmg2447 is located downstream of the nonfunctional ECF gene sigX(pseudo). Nisin-controlled expression of llmg2447 led to high Lcn972 resistance in L. lactis, with no cross-resistance to other cell wall-active antimicrobials. Upregulation of llmg2447 in L. lactis D1 (Lcn(r)) was linked to the integration of insertion element IS981 into the llmg2447 promoter region, replacing the native -35 box and activating the otherwise silent promoter P(2447). This is the first example of an orphan ECF anti-sigma factor involved in bacteriocin resistance. This new role in neutralizing cell wall-active compounds (e.g., Lcn972) could have evolved from a putative primary function of Llmg2447 in sensing cell envelope stress."
+  },
+  {
+    "pmid": "21818877",
+    "title": "Lactococcin 972 : a homodimeric lactococcal bacteriocin whose primary target is not the plasma membrane.",
+    "authors": [
+      "Mart\u00ednez B",
+      "Su\u00e1rez JE",
+      "Rodr\u00edguez A"
+    ],
+    "journal": "Microbiology (Reading, England)",
+    "pubdate": "1996 Sep",
+    "doi": null,
+    "abstract": "Lactococcus lactis subsp. lactis IPLA 972 was shown to produce a bacteriocin which had a bactericidal effect on sensitive lactococci. Production of lactococcin 972 reached a maximum during the late-exponential phase of growth. The bacteriocinogenic activity was heat-sensitive, active in the pH range 40-9.0 and showed low susceptibility to proteases. Purification of the bacteriocin rendered a single polypeptide of 7.5 kDa (monomer) as shown by SDS-PACE. Gels overlaid with a lawn of sensitive bacteria showed inhibitory activity at a point corresponding t o 15 kDa. Changes in the electrophoretic conditions allowed the detection of a band at a position corresponding to that expected for a hypothetical dimer. Sequencing of the NH,-terminal end of lactococcin 972 revealed the sequence NH,-EGTWQHGYGV, which is not related to any other bacteriocin sequence present in the databases. Finally, lactococcin 972 did not induce the efflux of compounds previously incorporated into the cytoplasm of sensitive cultures nor did it inhibit macromolecular synthesis,suggesting that, in contrast to other bacteriocins, its primary target is not the plasma membrane."
+  }
+]

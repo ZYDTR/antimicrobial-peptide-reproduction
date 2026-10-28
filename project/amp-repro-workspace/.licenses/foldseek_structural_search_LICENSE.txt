@@ -1,0 +1,5 @@
+Skill: foldseek-structural-search
+Timestamp: 2026-10-27T05:15:00Z
+Notice: User notified to check the terms of use at:
+- Foldseek Web Server: https://search.foldseek.com/search
+- Foldseek Repository: https://github.com/steineggerlab/foldseek

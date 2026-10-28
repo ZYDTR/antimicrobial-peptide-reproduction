@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "accession": "A0A0U0D591",
+  "created_at_utc": "2026-10-27T05:30:00+00:00",
+  "task": "structure_superposition",
+  "target_structure": {
+    "pdb_id": "2LGN",
+    "title": "Solution NMR Structure of the Bacteriocin Lactococcin 972",
+    "source_url": "https://www.rcsb.org/structure/2LGN"
+  },
+  "downloads": [
+    {
+      "role": "reference_pdb_gz",
+      "file": "pdb_00002lgn.pdb.gz",
+      "requested_url": "https://files.rcsb.org/download/2LGN.pdb.gz",
+      "retrieved_at_utc": "2026-10-27T05:25:00+00:00",
+      "http_status": 200,
+      "bytes": 328856,
+      "sha256": "ebb061529717a2a5605db0387ad057a2a9839dbf2b22522eaf1cd2e6e440f939"
+    },
+    {
+      "role": "reference_cif_gz",
+      "file": "pdb_00002lgn.cif.gz",
+      "requested_url": "https://files.rcsb.org/download/2LGN.cif.gz",
+      "retrieved_at_utc": "2026-10-27T05:25:00+00:00",
+      "http_status": 200,
+      "bytes": 395798,
+      "sha256": "a86f19b35da539021623ccf70045c77b6b5a3ab28af47dfe6a84c9830a134b14"
+    },
+    {
+      "role": "superposition_metrics_json",
+      "file": "superposition_results.json",
+      "retrieved_at_utc": "2026-10-27T05:28:00+00:00",
+      "bytes": 2179,
+      "sha256": "c41150f73a41fd450944feeebb7f5b0a2863b3de588a8739669815c78c14bb3f"
+    },
+    {
+      "role": "superposed_pdb",
+      "file": "superposed_candidate_on_2lgn_mature.pdb",
+      "retrieved_at_utc": "2026-10-27T05:28:00+00:00",
+      "bytes": 59624,
+      "sha256": "3d3f85634272f8c08595433b4fcf4d4264af927b6d24dd4771170e5b227afeab"
+    }
+  ]
+}

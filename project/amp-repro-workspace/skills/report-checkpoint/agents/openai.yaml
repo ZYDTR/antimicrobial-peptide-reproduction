@@ -1,0 +1,4 @@
+interface:
+  display_name: "Report and checkpoint"
+  short_description: "Summarize evidence and leave a precise checkpoint"
+  default_prompt: "Use $report-checkpoint for the active case in this project; read AGENTS.md first."

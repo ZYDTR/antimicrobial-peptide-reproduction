@@ -1,0 +1,4 @@
+interface:
+  display_name: "Genome and literature"
+  short_description: "Verify genomic context and supporting literature"
+  default_prompt: "Use $context-literature for the active case in this project; read AGENTS.md first."

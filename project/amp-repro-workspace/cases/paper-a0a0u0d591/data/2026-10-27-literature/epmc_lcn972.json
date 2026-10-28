@@ -1,0 +1,1512 @@
+{
+  "hitCount": 126,
+  "nextCursorMark": "AoIIQFqCvSg1NDc0Njc2OQ==",
+  "results": [
+    {
+      "id": "42757855",
+      "source": "MED",
+      "pmid": "42757855",
+      "pmcid": "PMC13689361",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13689361"
+        ]
+      },
+      "doi": "10.1128/mra.00969-26",
+      "title": "Complete genome sequence of &lt;i&gt;Bacillus toyonensis&lt;/i&gt; WHQ17, a bacteriocin-producing strain isolated from soil of Xiangshan Mountain.",
+      "authorString": "Liu H, Yang C, Xin B.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Liu H",
+            "lastName": "Liu",
+            "firstName": "Hualin",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Research & Development Division, Perfect (Guangdong) Co., Ltd., Zhongshan, Guangdong Province, China."
+                },
+                {
+                  "affiliation": "Research & Development Division, Perfect Life & Health Institute, Zhongshan, Guangdong Province, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yang C",
+            "lastName": "Yang",
+            "firstName": "Congyue",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Anhui Province Key Laboratory of Pollutant Sensitive Materials and Environmental Remediation, College of Life Sciences, Huaibei Normal University, Huaibei, Anhui Province, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xin B",
+            "lastName": "Xin",
+            "firstName": "Bingyue",
+            "initials": "B",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-5690-3522"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Anhui Province Key Laboratory of Pollutant Sensitive Materials and Environmental Remediation, College of Life Sciences, Huaibei Normal University, Huaibei, Anhui Province, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-5690-3522"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "10",
+        "volume": "15",
+        "journalIssueId": 4286665,
+        "dateOfPublication": "2026 Oct",
+        "monthOfPublication": 10,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Microbiol Resour Announc",
+          "title": "Microbiology resource announcements",
+          "essn": "2576-098X",
+          "issn": "2576-098X",
+          "isoabbreviation": "Microbiol Resour Announc",
+          "nlmid": "101728794"
+        },
+        "printPublicationDate": "2026-10-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "e0096926",
+      "abstractText": "<i>Bacillus toyonensis</i> WHQ17, isolated from Xiangshan Mountain soil, produces a bacteriocin with specific anti-<i>Bacillus cereus</i> activity. Here, we present its complete genome, which comprises one chromosome and five plasmids, and identify three putative bacteriocin biosynthetic gene clusters for future characterization.",
+      "affiliation": "Research & Development Division, Perfect (Guangdong) Co., Ltd., Zhongshan, Guangdong Province, China.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "brief-report",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "the Natural Science Research Project of the Anhui Provincial Department of Education",
+            "grantId": "2022AH030055",
+            "orderIn": 0
+          },
+          {
+            "agency": "the School-Enterprise Cooperation Profect",
+            "grantId": "2025340603000002",
+            "orderIn": 0
+          },
+          {
+            "agency": "the Open Fund of the State Key Laboratory of Agricultural Microbiology",
+            "grantId": "AMLKF202306",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Complete genome",
+          "Bacteriocins",
+          "Bacillus Toyonensis"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1128/mra.00969-26"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13689361"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13689361?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2026-10-08",
+      "dateOfCreation": "2026-09-18",
+      "dateOfRevision": "2026-10-24",
+      "electronicPublicationDate": "2026-09-18",
+      "firstPublicationDate": "2026-09-18",
+      "firstIndexDate": "2026-09-19",
+      "fullTextReceivedDate": "2026-10-24",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "42062668",
+      "source": "MED",
+      "pmid": "42062668",
+      "pmcid": "PMC13260041",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13260041"
+        ]
+      },
+      "doi": "10.1007/s10123-026-00836-x",
+      "title": "Genome-guided antimicrobial potential of Bacillus stercoris from coastal sand with activity against multidrug-resistant bacteria, including MRSA.",
+      "authorString": "Valen\u00e7a CAS, Andrade B, Viana M, Barbosa AAT, Dolabella SS, Severino P, M\u00e9nard G, Augagneur Y, Brenig B, Souto EB, Azevedo V, Guedon E, Jain S.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Valen\u00e7a CAS",
+            "lastName": "Valen\u00e7a",
+            "firstName": "Camilla Andrade Silva",
+            "initials": "CAS",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-7433-9467"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Postgraduate Program in Industrial Biotechnology, Tiradentes University, Aracaju, Sergipe, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Andrade B",
+            "lastName": "Andrade",
+            "firstName": "Bruno",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State University of Southwest Bahia, Jequi\u00e9, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Viana M",
+            "lastName": "Viana",
+            "firstName": "Marcus",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Federal University of Minas Gerais, Belo Horizonte, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Barbosa AAT",
+            "lastName": "Barbosa",
+            "firstName": "Ana Andrea Teixeira",
+            "initials": "AAT",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Postgraduate Program in Biology of Infectious and Parasitic Agents, Federal University of Sergipe, S\u00e3o Crist\u00f3v\u00e3o, Sergipe, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Dolabella SS",
+            "lastName": "Dolabella",
+            "firstName": "Silvio Santana",
+            "initials": "SS",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Postgraduate Program in Biology of Infectious and Parasitic Agents, Federal University of Sergipe, S\u00e3o Crist\u00f3v\u00e3o, Sergipe, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Severino P",
+            "lastName": "Severino",
+            "firstName": "Patr\u00edcia",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Postgraduate Program in Industrial Biotechnology, Tiradentes University, Aracaju, Sergipe, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "M\u00e9nard G",
+            "lastName": "M\u00e9nard",
+            "firstName": "Guillaume",
+            "initials": "G",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-0909-4069"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Bacterial Regulatory RNAs and Medicine (BRM) Rennes, Univ de Rennes, INSERM, Rennes, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Augagneur Y",
+            "lastName": "Augagneur",
+            "firstName": "Yoann",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Bacterial Regulatory RNAs and Medicine (BRM) Rennes, Univ de Rennes, INSERM, Rennes, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Brenig B",
+            "lastName": "Brenig",
+            "firstName": "Bertram",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Georg August University G\u00f6ttingen, G\u00f6ttingen, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Souto EB",
+            "lastName": "Souto",
+            "firstName": "Eliana B",
+            "initials": "EB",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-9737-6017"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "UCD School of Chemical and Bioprocess Engineering, University College Dublin, Belfield, Dublin 4, D04 V1W8, Ireland. eliana.souto@ucd.ie."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Azevedo V",
+            "lastName": "Azevedo",
+            "firstName": "Vasco",
+            "initials": "V",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Federal University of Minas Gerais, Belo Horizonte, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Guedon E",
+            "lastName": "Guedon",
+            "firstName": "Eric",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "STLO, INRAE, L'Institut Agro, Rennes, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Jain S",
+            "lastName": "Jain",
+            "firstName": "Sona",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Postgraduate Program in Industrial Biotechnology, Tiradentes University, Aracaju, Sergipe, Brazil. sonajain24@yahoo.com."
+                },
+                {
+                  "affiliation": "Postgraduate Program in Biology of Infectious and Parasitic Agents, Federal University of Sergipe, S\u00e3o Crist\u00f3v\u00e3o, Sergipe, Brazil. sonajain24@yahoo.com."
+                },
+                {
+                  "affiliation": "Postgraduate Program in Biotechnology (RENORBIO), Federal University of Sergipe, S\u00e3o Crist\u00f3v\u00e3o, Sergipe, Brazil. sonajain24@yahoo.com."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-7433-9467"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-9737-6017"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-0909-4069"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "5",
+        "volume": "29",
+        "journalIssueId": 4214887,
+        "dateOfPublication": "2026 Jun",
+        "monthOfPublication": 6,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Int Microbiol",
+          "title": "International microbiology : the official journal of the Spanish Society for Microbiology",
+          "essn": "1618-1905",
+          "issn": "1139-6709",
+          "isoabbreviation": "Int Microbiol",
+          "nlmid": "9816585"
+        },
+        "printPublicationDate": "2026-06-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "713-728",
+      "abstractText": "Coastal beach environments harbor diverse bacterial communities, yet their antimicrobial potential remains largely unexplored. This study evaluates the antimicrobial potential of a bacterial isolate 2AT10 from Brazilian beach sand through in vitro, in silico, and ex vivo assays. Isolate 2AT10, a rod-shaped Gram-positive bacterium, exhibited broad-spectrum antimicrobial activity, with its culture supernatants showing greater efficacy against Gram-positive bacteria, including multidrug-resistant strains such as methicillin-resistant Staphylococcus aureus (MRSA). Antimicrobial activity from two differently processed supernatants decreased after heat treatment, enzymatic digestion, and pH changes, suggesting similar proteolytic profiles. Fourier-transform infrared spectroscopy (FTIR) revealed peaks corresponding to C\u2009=\u2009O and NO\u2082 groups, indicating the presence of amide functional groups. Importantly, the supernatants did not cause irritation in the\u00a0ex vivo chorioallantoic membrane assay. Genomic analysis identified isolate 2AT10 as Bacillus stercoris, harboring genes encoding subtilosin A, bacilysin, bacillibactin, bacillaene and lactococcin-like bacteriocins, all associated with antimicrobial activity. A mutation in the sboA gene, involved in subtilosin A biosynthesis and previously linked to in vitro hemolytic activity and enhanced activity against Gram-positive bacteria, was also detected. Molecular docking and dynamics analyses suggested a possible interaction between lactococcin-like bacteriocin and a membrane component of the S. aureus phosphotransferase system transporter, possibly increasing membrane permeability.",
+      "affiliation": "Postgraduate Program in Industrial Biotechnology, Tiradentes University, Aracaju, Sergipe, Brazil.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "University College Dublin",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Bacillus",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "CL",
+                  "qualifierName": "classification"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "IP",
+                  "qualifierName": "isolation & purification"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "CH",
+                  "qualifierName": "chemistry"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Bacteriocins",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "PD",
+                  "qualifierName": "pharmacology"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Anti-Bacterial Agents",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "PD",
+                  "qualifierName": "pharmacology"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "CH",
+                  "qualifierName": "chemistry"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Microbial Sensitivity Tests"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Drug Resistance, Multiple, Bacterial"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Genome, Bacterial"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Brazil"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Methicillin-Resistant Staphylococcus aureus",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "DE",
+                  "qualifierName": "drug effects"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Molecular Docking Simulation"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Sand",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "MI",
+                  "qualifierName": "microbiology"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Secondary metabolites",
+          "Antimicrobial activity",
+          "In Silico Analysis",
+          "In Vitro Analysis",
+          "Methicillin-resistant\u00a0s.\u00a0aureus\u00a0",
+          "Methicillin-susceptible\u00a0s.\u00a0aureus"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Anti-Bacterial Agents",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Bacteriocins",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Sand",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s10123-026-00836-x"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13260041"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13260041?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasData": "Y",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gca",
+          "uniprot",
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2026-06-12",
+      "dateOfCreation": "2026-04-30",
+      "dateOfRevision": "2026-08-13",
+      "electronicPublicationDate": "2026-05-01",
+      "firstPublicationDate": "2026-05-01",
+      "firstIndexDate": "2026-05-02",
+      "fullTextReceivedDate": "2026-06-13",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "42197416",
+      "source": "MED",
+      "pmid": "42197416",
+      "pmcid": "PMC13210041",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13210041"
+        ]
+      },
+      "doi": "10.3390/microorganisms14051030",
+      "title": "Extraction, Purification, and Characterization of a Bacteriocin from Marine &lt;i&gt;Lactococcus lactis&lt;/i&gt; NAN6399: Evaluating Antioxidant and Antimicrobial Activities.",
+      "authorString": "Ameen FA, Soliman ME, Hamdan AM, Hammad SF.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Ameen FA",
+            "lastName": "Ameen",
+            "firstName": "Fatma A",
+            "initials": "FA",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0001-4074-9134"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Biotechnology, Basic and Applied Science Institute, Egypt-Japan University of Science and Technology, New Borg El Arab 21934, Egypt."
+                },
+                {
+                  "affiliation": "Botany and Microbiology Department, Faculty of Science, Alexandria University, Alexandria 21531, Egypt."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Soliman ME",
+            "lastName": "Soliman",
+            "firstName": "Mahmoud E",
+            "initials": "ME",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Faculty of Pharmacy, Ain Shams University, Cairo 11566, Egypt."
+                },
+                {
+                  "affiliation": "PharmD Program, Faculty of Pharmacy, Egypt-Japan University of Science and Technology (E-JUST), New Borg El Arab 21934, Egypt."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hamdan AM",
+            "lastName": "Hamdan",
+            "firstName": "Amira M",
+            "initials": "AM",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-7220-3646"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Oceanography Department, Faculty of Science, Alexandria University, Alexandria 21531, Egypt."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hammad SF",
+            "lastName": "Hammad",
+            "firstName": "Sherif F",
+            "initials": "SF",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "PharmD Program, Faculty of Pharmacy, Egypt-Japan University of Science and Technology (E-JUST), New Borg El Arab 21934, Egypt."
+                },
+                {
+                  "affiliation": "Pharmaceutical Chemistry Department, Faculty of Pharmacy, Capital University (Formerly Helwan University), Cairo 11795, Egypt."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-7220-3646"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0001-4074-9134"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "5",
+        "volume": "14",
+        "journalIssueId": 4201735,
+        "dateOfPublication": "2026 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Microorganisms",
+          "title": "Microorganisms",
+          "essn": "2076-2607",
+          "issn": "2076-2607",
+          "isoabbreviation": "Microorganisms",
+          "nlmid": "101625893"
+        },
+        "printPublicationDate": "2026-05-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "1030",
+      "abstractText": "We evaluated the antimicrobial and antioxidant capabilities of a bacteriocin purified from a recently identified marine <i>Lactococcus lactis</i> (<i>L. lactis</i>) NAN6399 strain, a lactic acid bacterium recovered from Mediterranean coastal waters near Alexandria, Egypt, and identified by combined API 50 CHL phenotypic profiling and 16S rRNA gene sequencing. Bacteriocin purification was achieved by sequential ammonium sulfate precipitation and reverse-phase high-performance liquid chromatography (RP-HPLC). The purified bioactive fraction had an approximate molecular weight of 20 kDa by SDS-PAGE and a 106-amino-acid N-terminal sequence that, upon BLAST alignment, returned 98.1% overall identity to the Lactococcin 972 family bacteriocin AAK06118.1 from <i>L. lactis</i> IL1403, with divergence confined exclusively to the terminal two C-terminal residues. This sequence is structurally and functionally distinct from canonical Lcn972 (<i>L. lactis</i> IPLA 972): the two peptides share an identical 25-residue signal peptide but diverge entirely in their mature bioactive domains, which exhibit only 9.1% sequence identity. Canonical Lcn972 operates through Lipid II-mediated septum disruption and inhibits only <i>Lactococcus</i> species; the NAN6399 peptide, correctly designated as a novel member of the Lcn972-like peptide family, demonstrated broad-spectrum antimicrobial efficacy against multiple indicator organisms (<i>Staphylococcus aureus</i>, <i>Salmonella typhimurium</i>, <i>Escherichia coli</i>, <i>Klebsiella pneumoniae</i>, <i>Pseudomonas aeruginosa</i>, and <i>Enterococcus faecalis</i>), producing inhibition zones of up to 30 mm and minimum inhibitory concentration (MIC) values as low as 1.25 \u03bcg/mL against <i>S. aureus</i>. Antioxidant capacity was assessed using the DPPH radical scavenging assay, with the purified preparation achieving 73.14 \u00b1 0.34% inhibition. Collectively, these data establish <i>L. lactis</i> NAN6399 as the producer of a bifunctional Lcn972-family bacteriocin with both antimicrobial and antioxidant potential, provide the first experimental characterization of the antimicrobial activity of this Lcn972-family branch, and highlight marine LAB as a productive reservoir for novel bioactive peptide discovery.",
+      "affiliation": "Biotechnology, Basic and Applied Science Institute, Egypt-Japan University of Science and Technology, New Borg El Arab 21934, Egypt.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "Japan International Cooperation Agency (JICA)",
+            "orderIn": 0
+          },
+          {
+            "agency": "Egypt-Japan University of Science and Technology (EJUST)",
+            "orderIn": 0
+          },
+          {
+            "agency": "Ministry of Higher Education in Egypt",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Lactococcus lactis",
+          "Antimicrobial",
+          "Lactic acid bacteria",
+          "Proteomics",
+          "Antioxidant activity",
+          "Bacteriocins",
+          "Microbial Biotechnology",
+          "Dpph Radical Scavenging",
+          "Marine Microbiology",
+          "Lactococcin972"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3390/microorganisms14051030"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13210041"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13210041?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasData": "Y",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "uniprot",
+          "interpro",
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2026-05-27",
+      "dateOfCreation": "2026-05-27",
+      "dateOfRevision": "2026-08-13",
+      "electronicPublicationDate": "2026-05-01",
+      "firstPublicationDate": "2026-05-01",
+      "firstIndexDate": "2026-05-28",
+      "fullTextReceivedDate": "2026-05-27",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "41471871",
+      "source": "MED",
+      "pmid": "41471871",
+      "pmcid": "PMC12735342",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12735342"
+        ]
+      },
+      "doi": "10.3390/microorganisms13122667",
+      "title": "&lt;i&gt;Lacticaseibacillus casei&lt;/i&gt; Combats Biofilm Formation and Exhibits Antibacterial Activity Against Clinical Isolates of &lt;i&gt;Staphylococcus aureus&lt;/i&gt;, &lt;i&gt;Salmonella enterica&lt;/i&gt;, and &lt;i&gt;Escherichia coli&lt;/i&gt;.",
+      "authorString": "Kiousi DE, Kyriakou S, Efstathiou C, Didaskalou S, Koffa M, Pappa A, Panopoulou M, Panayiotidis MI, Galanis A.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Kiousi DE",
+            "lastName": "Kiousi",
+            "firstName": "Despoina Eugenia",
+            "initials": "DE",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-4575-4776"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Molecular Biology and Genetics, Faculty of Health Sciences, Democritus University of Thrace, 68100 Alexandroupolis, Greece."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kyriakou S",
+            "lastName": "Kyriakou",
+            "firstName": "Sotiris",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-6195-6570"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Cancer Genetics, Therapeutics and Ultrastructural Pathology, The Cyprus Institute of Neurology and Genetics, 2371 Nicosia, Cyprus."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Efstathiou C",
+            "lastName": "Efstathiou",
+            "firstName": "Christos",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-8964-0423"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Molecular Biology and Genetics, Faculty of Health Sciences, Democritus University of Thrace, 68100 Alexandroupolis, Greece."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Didaskalou S",
+            "lastName": "Didaskalou",
+            "firstName": "Stylianos",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-5932-9626"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Molecular Biology and Genetics, Faculty of Health Sciences, Democritus University of Thrace, 68100 Alexandroupolis, Greece."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Koffa M",
+            "lastName": "Koffa",
+            "firstName": "Maria",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-2255-3426"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Molecular Biology and Genetics, Faculty of Health Sciences, Democritus University of Thrace, 68100 Alexandroupolis, Greece."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Pappa A",
+            "lastName": "Pappa",
+            "firstName": "Aglaia",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-0913-4315"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Molecular Biology and Genetics, Faculty of Health Sciences, Democritus University of Thrace, 68100 Alexandroupolis, Greece."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Panopoulou M",
+            "lastName": "Panopoulou",
+            "firstName": "Maria",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Faculty of Health Sciences, Democritus University of Thrace, 68100 Alexandroupolis, Greece."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Panayiotidis MI",
+            "lastName": "Panayiotidis",
+            "firstName": "Mihalis I",
+            "initials": "MI",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1450-3552"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Cancer Genetics, Therapeutics and Ultrastructural Pathology, The Cyprus Institute of Neurology and Genetics, 2371 Nicosia, Cyprus."
+                },
+                {
+                  "affiliation": "Department of Comparative Biomedical Sciences, School of Veterinary Medicine, Mississippi State University, Starkville, MS 39762, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Galanis A",
+            "lastName": "Galanis",
+            "firstName": "Alex",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9991-3173"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Molecular Biology and Genetics, Faculty of Health Sciences, Democritus University of Thrace, 68100 Alexandroupolis, Greece."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-5932-9626"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-8964-0423"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9991-3173"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1450-3552"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-4575-4776"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-6195-6570"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-0913-4315"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-2255-3426"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "12",
+        "volume": "13",
+        "journalIssueId": 4080434,
+        "dateOfPublication": "2025 Nov",
+        "monthOfPublication": 11,
+        "yearOfPublication": 2025,
+        "journal": {
+          "medlineAbbreviation": "Microorganisms",
+          "title": "Microorganisms",
+          "essn": "2076-2607",
+          "issn": "2076-2607",
+          "isoabbreviation": "Microorganisms",
+          "nlmid": "101625893"
+        },
+        "printPublicationDate": "2025-11-01"
+      },
+      "pubYear": "2025",
+      "pageInfo": "2667",
+      "abstractText": "Biofilm-forming pathogens are a major cause of persistent infections, showing limited response to antibiotic treatment. The search for alternative strategies has therefore driven extensive research into the antimicrobial potential of beneficial microorganisms. In the present study, the antibacterial and antibiofilm activity of the commercial probiotic strain <i>Lacticaseibacillus casei</i> ATCC 393 (Lc393) was examined against clinical isolates of <i>Staphylococcus aureus</i>, <i>Salmonella enterica</i> subsp. <i>enterica</i> serovar Enteritidis and <i>Escherichia coli</i>. Lc393 reduced pathogen viability and attachment to the colon adenocarcinoma cell line HT-29, with maximal effects recorded against <i>S. aureus</i>. Confocal microscopy visualization of the lactobacilli-pathogens-host interface revealed that Lc393 binds loosely to both host cells and pathogens. The Lc393 cell-free culture supernatant (CFCS) significantly reduced planktonic growth, biofilm mass, and viability of cells in biofilm (>2 logCFU reduction, <i>p</i> < 0.05) and downregulated genes involved in the early stages of biofilm formation in <i>S. aureus</i> (i.e., <i>icaA, fnbpA, eno</i>). In silico analysis of the Lc393 genome identified two bacteriocin clusters, along with genes related to ethanol and organic acid production. Based on in silico predictions and a bacteriocin zymogram, the strain cannot produce functional antimicrobial peptides. Untargeted metabolomics based on UPLC/MS further revealed the presence of putative antimicrobial metabolites. Collectively, our findings highlight the antimicrobial potential of <i>Lc. casei</i> ATCC 393 and support its further investigation for combating clinically relevant human pathogens.",
+      "affiliation": "Department of Molecular Biology and Genetics, Faculty of Health Sciences, Democritus University of Thrace, 68100 Alexandroupolis, Greece.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "Telethon Cyprus",
+            "grantId": "Telethon Cyprus",
+            "orderIn": 0
+          },
+          {
+            "agency": "EPAnEK",
+            "grantId": "MIS Code 5047285",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Antimicrobial",
+          "Probiotics",
+          "pathogens",
+          "Antibiofilm",
+          "Untargeted Metabolomics",
+          "Cell-free Culture Supernatants",
+          "Lacticaseibacillus Casei"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3390/microorganisms13122667"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12735342"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12735342?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasData": "Y",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "interpro",
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2025-12-31",
+      "dateOfCreation": "2025-12-31",
+      "dateOfRevision": "2026-01-02",
+      "electronicPublicationDate": "2025-11-24",
+      "firstPublicationDate": "2025-11-24",
+      "firstIndexDate": "2026-01-02",
+      "fullTextReceivedDate": "2025-12-25",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "41565307",
+      "source": "MED",
+      "pmid": "41565307",
+      "pmcid": "PMC12823222",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12823222"
+        ]
+      },
+      "doi": "10.1111/1758-2229.70283",
+      "title": "The Factors Involved in Plant-Insect-Microbe Interactions Expanded: Genome Analysis and Description of Frigoribacterium adelgis sp. nov.",
+      "authorString": "Tamo\u0161i\u016bnait\u0117 G, Havelka J, Baranauskien\u0117 R, Lazutka J, Kuisiene N.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Tamo\u0161i\u016bnait\u0117 G",
+            "lastName": "Tamo\u0161i\u016bnait\u0117",
+            "firstName": "Gust\u0117",
+            "initials": "G",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0002-0282-2879"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Microbiology and Biotechnology, Life Sciences Center, Institute of Biosciences, Vilnius University, Vilnius, Lithuania."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Havelka J",
+            "lastName": "Havelka",
+            "firstName": "Jekaterina",
+            "initials": "J",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0004-0697-4567"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Zoology, Life Sciences Center, Institute of Biosciences, Vilnius University, Vilnius, Lithuania."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Baranauskien\u0117 R",
+            "lastName": "Baranauskien\u0117",
+            "firstName": "Raimonda",
+            "initials": "R",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0008-4913-7266"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Microbiology and Biotechnology, Life Sciences Center, Institute of Biosciences, Vilnius University, Vilnius, Lithuania."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lazutka J",
+            "lastName": "Lazutka",
+            "firstName": "Justas",
+            "initials": "J",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-2006-7280"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Eukaryote Gene Engineering, Life Sciences Center, Institute of Biotechnology, Vilnius University, Vilnius, Lithuania."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kuisiene N",
+            "lastName": "Kuisiene",
+            "firstName": "Nomeda",
+            "initials": "N",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-8577-128X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Microbiology and Biotechnology, Life Sciences Center, Institute of Biosciences, Vilnius University, Vilnius, Lithuania."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8577-128X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-2006-7280"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0002-0282-2879"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0004-0697-4567"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0008-4913-7266"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "18",
+        "journalIssueId": 4088871,
+        "dateOfPublication": "2026 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Environ Microbiol Rep",
+          "title": "Environmental microbiology reports",
+          "essn": "1758-2229",
+          "issn": "1758-2229",
+          "isoabbreviation": "Environ Microbiol Rep",
+          "nlmid": "101499207"
+        },
+        "printPublicationDate": "2026-02-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "e70283",
+      "abstractText": "Actinobacteria of the genus Frigoribacterium were isolated from adelgid Adelges (Aphrastasia) pectinatae collected from a Korean fir tree. Genomic analyses revealed that these bacteria encode a range of factors that may be involved in the interactions among Frigoribacterium strains, adelgids and/or conifers. Secreted carbohydrate-active enzymes were identified in the genomes, which allow these bacteria to degrade plant polysaccharides such as cellulose, xylan, pectin and mannan, the main hemicellulose component of softwood. The degradation potential of insect cuticles was investigated, and secreted chitinases belonging to the GH18 family were predicted to be present in the genomes. However, no phenotypic chitinolytic activity was detected. The potential interactions between these bacterial strains and either plants or insects were assessed, resulting in a few high-scoring hits. The related Frigoribacterium genomes were compared, revealing several unique features, such as numerous orthologous gene clusters specific to these strains and five biosynthetic gene clusters. Ten genomic islands were predicted in the genomes of the adelgid-associated strains, which contained genes responsible for adapting to environmental changes, resisting heavy metals and expanding metabolic capabilities. We propose a new species, Frigoribacterium adelgis, belonging to the genus Frigoribacterium, based on these results.",
+      "affiliation": "Department of Microbiology and Biotechnology, Life Sciences Center, Institute of Biosciences, Vilnius University, Vilnius, Lithuania.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Animals"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Actinobacteria",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "CL",
+                  "qualifierName": "classification"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "IP",
+                  "qualifierName": "isolation & purification"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "PH",
+                  "qualifierName": "physiology"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Phylogeny"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Genome, Bacterial"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Multigene Family"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Insecta",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "MI",
+                  "qualifierName": "microbiology"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Host Microbial Interactions"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Endophytic Actinobacteria",
+          "Carbohydrate\u2010active Enzymes",
+          "Adelgid",
+          "Frigoribacterium",
+          "Adelges (Aphrastasia) Pectinatae",
+          "Plant\u2013insect\u2013microbe Interaction"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1111/1758-2229.70283"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12823222"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12823222?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasData": "Y",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2026-06-30",
+      "dateOfCreation": "2026-01-21",
+      "dateOfRevision": "2026-06-30",
+      "firstPublicationDate": "2026-02-01",
+      "firstIndexDate": "2026-01-22",
+      "fullTextReceivedDate": "2026-01-22",
+      "hasEvaluations": "N"
+    }
+  ]
+}

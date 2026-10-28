@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "accession": "A0A0U0D591",
+  "created_at_utc": "2026-10-27T05:05:24+00:00",
+  "task": "blast_swissprot",
+  "job_id": "ncbiblast-R20261027-050524-0057-42600296-p1m",
+  "tool": {
+    "name": "EBI NCBI BLAST (blastp)",
+    "version": "2.16.0+",
+    "service_url": "https://www.ebi.ac.uk/Tools/services/rest/ncbiblast",
+    "script": "skills/protein_sequence_similarity_search/scripts/uniprot_blast.py"
+  },
+  "parameters": {
+    "program": "blastp",
+    "stype": "protein",
+    "database": "uniprotkb_swissprot",
+    "query_input": "cases/paper-a0a0u0d591/data/2026-10-23-record/candidate.fasta",
+    "query_length": 97,
+    "filter": "F",
+    "comp_based_stats": "F",
+    "max_alignment_hits": 300,
+    "default_evalue": 1000
+  },
+  "downloads": [
+    {
+      "role": "blast_json",
+      "file": "blast_swissprot.json",
+      "requested_url": "https://www.ebi.ac.uk/Tools/services/rest/ncbiblast/result/ncbiblast-R20261027-050524-0057-42600296-p1m/json",
+      "retrieved_at_utc": "2026-10-27T05:05:35+00:00",
+      "http_status": 200,
+      "bytes": 14864,
+      "sha256": "70746b038cd8af55bf1ecc582fd43ebf08454f423024e39f0d75d415e21bf54e"
+    },
+    {
+      "role": "blast_markdown",
+      "file": "blast_swissprot.md",
+      "retrieved_at_utc": "2026-10-27T05:05:35+00:00",
+      "bytes": 1870,
+      "sha256": "fd6bec8ba8b729716ca723caa4fcb2052a699df06379789ff433eaf0f8eec023"
+    },
+    {
+      "role": "blast_raw_output",
+      "file": "blast_raw.txt",
+      "requested_url": "https://www.ebi.ac.uk/Tools/services/rest/ncbiblast/result/ncbiblast-R20261027-050524-0057-42600296-p1m/out",
+      "retrieved_at_utc": "2026-10-27T05:06:00+00:00",
+      "http_status": 200,
+      "bytes": 5485,
+      "sha256": "42ddcf45dde20a69c03773290c27e8f0242304d6b94cb009d601f0e1859e69ca"
+    },
+    {
+      "role": "blast_submission",
+      "file": "blast_submission.xml",
+      "requested_url": "https://www.ebi.ac.uk/Tools/services/rest/ncbiblast/result/ncbiblast-R20261027-050524-0057-42600296-p1m/submission",
+      "retrieved_at_utc": "2026-10-27T05:06:00+00:00",
+      "http_status": 200,
+      "bytes": 5190,
+      "sha256": "c6f483b8468a52a11a541a74acad7848b928c84dee3a107e7445f82d6fef65ac"
+    }
+  ]
+}

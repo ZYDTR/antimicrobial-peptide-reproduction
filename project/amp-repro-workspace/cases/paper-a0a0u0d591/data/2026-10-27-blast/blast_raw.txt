@@ -1,0 +1,162 @@
+BLASTP 2.16.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: uniprotkb_swissprot
+           575,748 sequences; 209,017,843 total letters
+
+
+
+Query= EMBOSS_001
+
+Length=97
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+SP:P97997 MPPA_BLAEM Mitochondrial-processing peptidase subunit al...  35.8    0.027
+SP:B2HIL6 FAA22_MYCMM p-hydroxybenzoic acid--AMP ligase FadD22 OS=...  31.6    0.85
+SP:Q09788 ASL1_SCHPO Alkali-sensitive linkage protein 1 OS=Schizos...  30.4    2.1
+SP:Q64761 SPIK1_ADEG1 Fiber protein 1 OS=Fowl adenovirus A serotyp...  30.0    3.0
+SP:P09146 OMPA_KLEAE Outer membrane protein A OS=Klebsiella aeroge...  29.6    3.8
+SP:Q09164 SIMA_TOLIN Cyclosporin synthetase simA OS=Tolypocladium ...  29.6    4.3
+SP:O15547 P2RX6_HUMAN P2X purinoceptor 6 OS=Homo sapiens OX=9606 G...  29.3    5.3
+
+
+>SP:P97997 MPPA_BLAEM Mitochondrial-processing peptidase subunit alpha OS=Blastocladiella
+emersonii OX=4808 PE=3 SV=1
+Length=474
+
+ Score = 35.8 bits (81),  Expect = 0.027
+ Identities = 21/80 (26%), Positives = 41/80 (51%), Gaps = 3/80 (4%)
+
+Query  10   TTSLLALTLAGAGGSIVSAAT---VWYKGTAVYWDYGRTAGLWSYSNVQSSVYEHSATAN  66
+            T S +  T+AG GG++   AT   + Y+G+ ++ D  RT  L + + ++ ++ E
+Sbjct  72   TESQVLKTMAGLGGNLFCTATRESILYQGSVLHHDLPRTVQLLADTTLRPALTEEEIAER  131
+
+Query  67   GAFSGWQSPGVEARVSKFIG  86
+             A   +++  + +R   FIG
+Sbjct  132  RATIAFEAEDLHSRPDAFIG  151
+
+
+>SP:B2HIL6 FAA22_MYCMM p-hydroxybenzoic acid--AMP ligase FadD22 OS=Mycobacterium
+marinum (strain ATCC BAA-535 / M) OX=216594 GN=fadD22
+PE=1 SV=1
+Length=702
+
+ Score = 31.6 bits (70),  Expect = 0.85
+ Identities = 20/59 (34%), Positives = 31/59 (53%), Gaps = 1/59 (2%)
+
+Query  26   VSAATVWYKGTAVYWDYGRTAGLWSYSNVQSSVYEHSATANGAFSGWQS-PGVEARVSK  83
+            ++AAT       V WDYG  +GL  Y   + S  +   T   A SG ++ P +EA+++K
+Sbjct  586  LAAATGLRVPETVGWDYGSISGLAQYLEAELSGADRRVTPQSARSGARALPLIEAQLNK  644
+
+
+>SP:Q09788 ASL1_SCHPO Alkali-sensitive linkage protein 1 OS=Schizosaccharomyces
+pombe (strain 972 / ATCC 24843) OX=284812 GN=asl1 PE=1
+SV=1
+Length=530
+
+ Score = 30.4 bits (67),  Expect = 2.1
+ Identities = 19/60 (32%), Positives = 30/60 (50%), Gaps = 0/60 (0%)
+
+Query  10   TTSLLALTLAGAGGSIVSAATVWYKGTAVYWDYGRTAGLWSYSNVQSSVYEHSATANGAF  69
+            T S++  T A A  S  ++    +  T +Y     TA +WS ++V  S  E SAT++  F
+Sbjct  87   TESVVVTTSAPAASSSATSYPATFVSTPLYTMDNVTAPVWSNTSVPVSTPETSATSSSEF  146
+
+
+>SP:Q64761 SPIK1_ADEG1 Fiber protein 1 OS=Fowl adenovirus A serotype 1 (strain
+CELO / Phelps) OX=10553 PE=1 SV=1
+Length=710
+
+ Score = 30.0 bits (66),  Expect = 3.0
+ Identities = 21/71 (30%), Positives = 30/71 (42%), Gaps = 0/71 (0%)
+
+Query  1    MKKSIKKIITTSLLALTLAGAGGSIVSAATVWYKGTAVYWDYGRTAGLWSYSNVQSSVYE  60
+            +K S    IT   LAL  +G GGS       ++ G  +   Y   A L + +  + + Y
+Sbjct  474  LKYSSDFTITNGALALANSGGGGSSTPEVATYHCGDNLLESYDIFASLPNTNAAKVAAYC  533
+
+Query  61   HSATANGAFSG  71
+              A A G  SG
+Sbjct  534  RLAAAGGVVSG  544
+
+
+>SP:P09146 OMPA_KLEAE Outer membrane protein A OS=Klebsiella aerogenes OX=548
+GN=ompA PE=3 SV=1
+Length=350
+
+ Score = 29.6 bits (65),  Expect = 3.8
+ Identities = 21/65 (32%), Positives = 31/65 (48%), Gaps = 6/65 (9%)
+
+Query  14  LALTLAGAGGSIVSAAT----VWYKGTAVYWDYGRTAGLWSYSNVQSSVYEH-SATANGA  68
+           +A+ +A AG + V+ A      WY G  + W      G W  SN+ ++   H S    GA
+Sbjct  6   IAIAVALAGFATVAQAAPKDNTWYAGGKLGWSQFHDTG-WYNSNLNNNGPTHESQLGAGA  64
+
+Query  69  FSGWQ  73
+           F G+Q
+Sbjct  65  FGGYQ  69
+
+
+>SP:Q09164 SIMA_TOLIN Cyclosporin synthetase simA OS=Tolypocladium inflatum
+OX=29910 GN=simA PE=1 SV=1
+Length=15281
+
+ Score = 29.6 bits (65),  Expect = 4.3
+ Identities = 20/52 (38%), Positives = 28/52 (54%), Gaps = 3/52 (6%)
+
+Query  38    VYWDYGRTAGLWSYSNVQSSVYEHSATANGAFSGWQSPGVEARVSKFIGTAT  89
+             V ++ GR  GL SY  ++ S    SATA    +    PG+E R+   +GTAT
+Sbjct  3604  VLFNLGREGGLQSYVGLEPSP---SATAFVNKAAKSFPGLEDRIRVEVGTAT  3652
+
+
+>SP:O15547 P2RX6_HUMAN P2X purinoceptor 6 OS=Homo sapiens OX=9606 GN=P2RX6
+PE=1 SV=2
+Length=441
+
+ Score = 29.3 bits (64),  Expect = 5.3
+ Identities = 22/67 (33%), Positives = 31/67 (46%), Gaps = 6/67 (9%)
+
+Query  18   LAGAGGSIVSAATVWYK-GTAVYWDYGRT---AGLWSYSNVQSSVYEHSATANGAFSGWQ  73
+            +A AGG+    A +    G  V+WD       +G W + + Q  + E S     A   W+
+Sbjct  247  VAKAGGTFEDLALLGGSVGIRVHWDCDLDTGDSGCWPHYSFQ--LQEKSYNFRTATHWWE  304
+
+Query  74   SPGVEAR  80
+             PGVEAR
+Sbjct  305  QPGVEAR  311
+
+
+
+Lambda      K        H
+   0.316    0.126    0.402
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140
+
+Effective search space used: 5113281810
+
+
+  Database: uniprotkb_swissprot
+    Posted date:  Sep 1, 2026  11:35 PM
+  Number of letters in database: 209,017,843
+  Number of sequences in database:  575,748
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

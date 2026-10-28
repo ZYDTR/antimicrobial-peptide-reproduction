@@ -1,0 +1,76 @@
+[
+  {
+    "pmid": "35280413",
+    "title": "A narrative review of the pharmacology of ginsenoside compound K.",
+    "authors": [
+      "Liu T",
+      "Zhu L",
+      "Wang L"
+    ],
+    "journal": "Annals of translational medicine",
+    "pubdate": "2022 Feb",
+    "doi": "10.21037/atm-22-501",
+    "abstract": "BACKGROUND AND OBJECTIVE: The ginsenoside compound K [20-o-beta-dglucopyranosyl-20 (S)-protopanaxadiol; CK] is the main deglycosylated metabolite of ginsenoside. As a rare ginsenoside converted from the active substance of ginseng by intestinal bacteria, CK has higher biological activity than other ginsenosides. It has demonstrated diverse and intriguing biological activities, including anti-carcinogenic, anti-diabetic, anti-inflammation, anti-allergy, anti-angiogenesis, anti-aging, neuroprotective, and hepatoprotective effects. The purpose of this review was to elucidate the rich pharmacological activities and related mechanisms of ginsenoside CK in vivo and in vitro, as well as the potential therapeutic value of CK as a drug in a variety of systemically related diseases.\nMETHODS: The PubMed database was searched for articles published in English from February 2008 to December 2021 using related keywords such as \"Ginsenoside compound K\", \"compound K\", and \"CK\". About 140 research papers and reports written in English were identified. These papers mainly concentrated on the pharmacological activities of CK in cancer prevention, immune regulation, diabetic improvement, central nervous system (CNS) protection, cardiovascular protection, skin improvement, and hepatoprotection.\nKEY CONTENT AND FINDINGS: This paper describes the synthesis, pharmacokinetics, and adverse reactions of CK, as well as great detailed summarized of the relevant pharmacological activities. Such diverse intriguing biological properties of CK have been found.\nCONCLUSIONS: On account of CK's numerous pharmacological activities and anti-carcinogenic, anti-inflammation, antiallergic, anti-diabetic, anti-angiogenesis, anti-aging, neuroprotective, and hepatoprotective effects, strong evidence is available for CK as a preventive or therapeutic agent for various diseases. However, further studies are needed to evaluate the safety and effectiveness of CK as a drug and its application in the medical field."
+  },
+  {
+    "pmid": "39388677",
+    "title": "Genomic imprinting biomarkers for cervical cancer risk stratification.",
+    "authors": [
+      "Xiao X",
+      "Wang W",
+      "Bai P",
+      "Chen Y",
+      "Qin Z",
+      "Cheng T",
+      "Li X",
+      "Pineda JP",
+      "Shi P",
+      "Wang X",
+      "Wang J",
+      "Xu L",
+      "Gao X",
+      "Zheng H",
+      "Yang L",
+      "Lin W",
+      "Huang W",
+      "Shen R",
+      "Yue C",
+      "Xu H",
+      "Batalini F",
+      "Liu Y",
+      "Zhou N",
+      "Zhang Y",
+      "Liu H"
+    ],
+    "journal": "Cancer communications (London, England)",
+    "pubdate": "2024 Dec",
+    "doi": "10.1002/cac2.12617",
+    "abstract": null
+  },
+  {
+    "pmid": "30646609",
+    "title": "Functional Interplay between RNA Viruses and Non-Coding RNA in Mammals.",
+    "authors": [
+      "Damas ND",
+      "Fossat N",
+      "Scheel TKH"
+    ],
+    "journal": "Non-coding RNA",
+    "pubdate": "2019 Jan 14",
+    "doi": "10.3390/ncrna5010007",
+    "abstract": "Exploring virus\u207bhost interactions is key to understand mechanisms regulating the viral replicative cycle and any pathological outcomes associated with infection. Whereas interactions at the protein level are well explored, RNA interactions are less so. Novel sequencing methodologies have helped uncover the importance of RNA\u207bprotein and RNA\u207bRNA interactions during infection. In addition to messenger RNAs (mRNAs), mammalian cells express a great number of regulatory non-coding RNAs, some of which are crucial for regulation of the immune system whereas others are utilized by viruses. It is thus becoming increasingly clear that RNA interactions play important roles for both sides in the arms race between virus and host. With the emerging field of RNA therapeutics, such interactions are promising antiviral targets. In this review, we discuss direct and indirect RNA interactions occurring between RNA viruses or retroviruses and host non-coding transcripts upon infection. In addition, we review RNA virus derived non-coding RNAs affecting immunological and metabolic pathways of the host cell typically to provide an advantage to the virus. The relatively few known examples of virus\u207bhost RNA interactions suggest that many more await discovery."
+  },
+  {
+    "pmid": "29899668",
+    "title": "Retrocalcaneal Bursitis Precedes or Accompanies Achilles Tendon Enthesitis in the Early Phase of Rheumatoid Arthritis.",
+    "authors": [
+      "Suzuki T",
+      "Hidaka Y",
+      "Seri Y"
+    ],
+    "journal": "Clinical medicine insights. Arthritis and musculoskeletal disorders",
+    "pubdate": "2018",
+    "doi": "10.1177/1179544118781094",
+    "abstract": "The consecutive reports and stored images of ultrasound examinations for 100 symptomatic ankles of 74 patients with rheumatoid arthritis (RA) were reviewed for the presence or absence of retrocalcaneal bursitis (RCB) and Achilles tendon enthesitis (ATE). The ankles were classified into 4 categories based on the presence or absence of RCB or ATE. The number of RCB(-)/ATE(-), RCB(+)/ATE(-), RCB(+)/ATE(+), and RCB(-)/ATE(+) ankles was 62, 16, 12, and 10, respectively. When classifying patients into early RA and established RA, the percentage of RCB(-)/ATE(+) ankles with early RA was significantly lower than that with established RA (P\u2009=\u2009.00595). The disease duration was significantly longer in the RCB(-)/ATE(+) ankles than in the RCB(+)/ATE(-) ankles (median [interquartile range]: 15.29 [8.69]\u2009months vs 3.6 [3.06]\u2009months, P\u2009=\u2009.0247). It was speculated that RCB precedes or accompanies ATE in the early phase of RA, which suggests that entheseal inflammation in RA arises from synovial tissues."
+  }
+]

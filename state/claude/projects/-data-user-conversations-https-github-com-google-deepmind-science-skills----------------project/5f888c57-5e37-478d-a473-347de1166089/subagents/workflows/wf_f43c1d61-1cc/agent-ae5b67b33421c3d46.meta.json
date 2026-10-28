@@ -1,0 +1,1 @@
+{"agentType":"workflow-subagent","description":"audit:genomic_neighborhood","workflowPhase":"Adversarial Audit","spawnDepth":1,"requestShape":"foreground","requestNonInteractive":true}
